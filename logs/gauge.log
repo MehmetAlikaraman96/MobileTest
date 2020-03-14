@@ -1,0 +1,2189 @@
+11-03-2020 13:58:03.374 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+11-03-2020 13:58:03.376 [Gauge] [DEBUG] Plugin java is already installed.
+11-03-2020 13:58:03.377 [Gauge] [DEBUG] Plugin html-report is already installed.
+11-03-2020 13:58:03.379 [Gauge] [DEBUG] Parsing started.
+11-03-2020 13:58:03.379 [Gauge] [DEBUG] Started concepts parsing.
+11-03-2020 13:58:03.385 [Gauge] [DEBUG] 0 concepts parsing completed.
+11-03-2020 13:58:03.385 [Gauge] [DEBUG] Started specifications parsing.
+11-03-2020 13:58:03.386 [Gauge] [DEBUG] 1 specifications parsing completed.
+11-03-2020 13:58:03.386 [Gauge] [DEBUG] Parsing completed.
+11-03-2020 13:58:03.975 [Gauge] [DEBUG] Checking updates...
+11-03-2020 13:58:03.977 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 13:58:05.060 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 13:58:05.369 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 13:58:05.616 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 13:58:11.470 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 60888
+11-03-2020 13:58:11.668 [Gauge] [DEBUG] Successfully made the connection with runner with port: 60888
+11-03-2020 13:58:11.668 [Gauge] [DEBUG] Validation started.
+11-03-2020 13:58:11.836 [Gauge] [DEBUG] Validation completed.
+11-03-2020 13:58:11.837 [Gauge] [DEBUG] Run started
+11-03-2020 13:58:11.838 [Gauge] [DEBUG] Starting Html Report plugin
+11-03-2020 13:58:11.870 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 60893
+11-03-2020 13:58:11.871 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 60893
+11-03-2020 13:58:11.872 [Gauge] [DEBUG] Initialising suite data store.
+11-03-2020 13:58:17.251 [java] [DEBUG] Scanning packages for steps
+11-03-2020 13:58:17.322 [java] [DEBUG] Scanning packages for hooks
+11-03-2020 13:59:25.492 [html-report] [DEBUG] Transformed SuiteResult to report structure
+11-03-2020 13:59:25.584 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+11-03-2020 13:59:25.584 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+11-03-2020 13:59:25.584 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+11-03-2020 13:59:26.114 [Gauge] [DEBUG] Runner with PID:13794 has exited
+11-03-2020 13:59:26.115 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+11-03-2020 13:59:26.115 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11-03-2020 13:59:26.115 [Gauge] [INFO] 
+Total time taken: 1m13.648s
+11-03-2020 14:02:17.599 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+11-03-2020 14:02:17.601 [Gauge] [DEBUG] Plugin java is already installed.
+11-03-2020 14:02:17.602 [Gauge] [DEBUG] Plugin html-report is already installed.
+11-03-2020 14:02:17.603 [Gauge] [DEBUG] Parsing started.
+11-03-2020 14:02:17.603 [Gauge] [DEBUG] Started concepts parsing.
+11-03-2020 14:02:17.609 [Gauge] [DEBUG] 0 concepts parsing completed.
+11-03-2020 14:02:17.609 [Gauge] [DEBUG] Started specifications parsing.
+11-03-2020 14:02:17.610 [Gauge] [DEBUG] 1 specifications parsing completed.
+11-03-2020 14:02:17.610 [Gauge] [DEBUG] Parsing completed.
+11-03-2020 14:02:18.554 [Gauge] [DEBUG] Checking updates...
+11-03-2020 14:02:18.557 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 14:02:20.034 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 14:02:20.283 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 14:02:20.545 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 14:02:25.326 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 61126
+11-03-2020 14:02:25.601 [Gauge] [DEBUG] Successfully made the connection with runner with port: 61126
+11-03-2020 14:02:25.601 [Gauge] [DEBUG] Validation started.
+11-03-2020 14:02:25.790 [Gauge] [DEBUG] Validation completed.
+11-03-2020 14:02:25.791 [Gauge] [DEBUG] Run started
+11-03-2020 14:02:25.791 [Gauge] [DEBUG] Starting Html Report plugin
+11-03-2020 14:02:25.831 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 61131
+11-03-2020 14:02:25.833 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 61131
+11-03-2020 14:02:25.833 [Gauge] [DEBUG] Initialising suite data store.
+11-03-2020 14:02:31.162 [java] [DEBUG] Scanning packages for steps
+11-03-2020 14:02:31.260 [java] [DEBUG] Scanning packages for hooks
+11-03-2020 14:02:38.086 [html-report] [DEBUG] Transformed SuiteResult to report structure
+11-03-2020 14:02:38.119 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+11-03-2020 14:02:38.119 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+11-03-2020 14:02:38.120 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+11-03-2020 14:02:38.646 [Gauge] [DEBUG] Runner with PID:13887 has exited
+11-03-2020 14:02:38.646 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+11-03-2020 14:02:38.646 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11-03-2020 14:02:38.646 [Gauge] [INFO] 
+Total time taken: 12.289s
+11-03-2020 14:03:17.377 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+11-03-2020 14:03:17.378 [Gauge] [DEBUG] Plugin java is already installed.
+11-03-2020 14:03:17.379 [Gauge] [DEBUG] Plugin html-report is already installed.
+11-03-2020 14:03:17.380 [Gauge] [DEBUG] Parsing started.
+11-03-2020 14:03:17.380 [Gauge] [DEBUG] Started concepts parsing.
+11-03-2020 14:03:17.385 [Gauge] [DEBUG] 0 concepts parsing completed.
+11-03-2020 14:03:17.386 [Gauge] [DEBUG] Started specifications parsing.
+11-03-2020 14:03:17.387 [Gauge] [DEBUG] 1 specifications parsing completed.
+11-03-2020 14:03:17.387 [Gauge] [DEBUG] Parsing completed.
+11-03-2020 14:03:18.052 [Gauge] [DEBUG] Checking updates...
+11-03-2020 14:03:18.053 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 14:03:19.220 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 14:03:19.553 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 14:03:19.812 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 14:03:24.951 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 61175
+11-03-2020 14:03:25.115 [Gauge] [DEBUG] Successfully made the connection with runner with port: 61175
+11-03-2020 14:03:25.115 [Gauge] [DEBUG] Validation started.
+11-03-2020 14:03:25.281 [Gauge] [DEBUG] Validation completed.
+11-03-2020 14:03:25.281 [Gauge] [DEBUG] Run started
+11-03-2020 14:03:25.284 [Gauge] [DEBUG] Starting Html Report plugin
+11-03-2020 14:03:25.327 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 61180
+11-03-2020 14:03:25.329 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 61180
+11-03-2020 14:03:25.329 [Gauge] [DEBUG] Initialising suite data store.
+11-03-2020 14:03:30.490 [java] [DEBUG] Scanning packages for steps
+11-03-2020 14:03:30.561 [java] [DEBUG] Scanning packages for hooks
+11-03-2020 14:03:49.454 [html-report] [DEBUG] Transformed SuiteResult to report structure
+11-03-2020 14:03:49.489 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+11-03-2020 14:03:49.489 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+11-03-2020 14:03:49.490 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+11-03-2020 14:03:50.008 [Gauge] [DEBUG] Runner with PID:13902 has exited
+11-03-2020 14:03:50.008 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 14:03:50.008 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 14:03:50.008 [Gauge] [INFO] 
+Total time taken: 24.166s
+11-03-2020 14:04:00.660 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+11-03-2020 14:04:00.662 [Gauge] [DEBUG] Plugin java is already installed.
+11-03-2020 14:04:00.663 [Gauge] [DEBUG] Plugin html-report is already installed.
+11-03-2020 14:04:00.663 [Gauge] [DEBUG] Parsing started.
+11-03-2020 14:04:00.663 [Gauge] [DEBUG] Started concepts parsing.
+11-03-2020 14:04:00.670 [Gauge] [DEBUG] 0 concepts parsing completed.
+11-03-2020 14:04:00.671 [Gauge] [DEBUG] Started specifications parsing.
+11-03-2020 14:04:00.672 [Gauge] [DEBUG] 1 specifications parsing completed.
+11-03-2020 14:04:00.672 [Gauge] [DEBUG] Parsing completed.
+11-03-2020 14:04:01.315 [Gauge] [DEBUG] Checking updates...
+11-03-2020 14:04:01.317 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 14:04:02.432 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 14:04:02.709 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 14:04:02.969 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 14:04:07.977 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 61321
+11-03-2020 14:04:08.437 [Gauge] [DEBUG] Successfully made the connection with runner with port: 61321
+11-03-2020 14:04:08.437 [Gauge] [DEBUG] Validation started.
+11-03-2020 14:04:08.629 [Gauge] [DEBUG] Validation completed.
+11-03-2020 14:04:08.630 [Gauge] [DEBUG] Run started
+11-03-2020 14:04:08.632 [Gauge] [DEBUG] Starting Html Report plugin
+11-03-2020 14:04:08.669 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 61326
+11-03-2020 14:04:08.671 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 61326
+11-03-2020 14:04:08.671 [Gauge] [DEBUG] Initialising suite data store.
+11-03-2020 14:04:14.520 [java] [DEBUG] Scanning packages for steps
+11-03-2020 14:04:14.608 [java] [DEBUG] Scanning packages for hooks
+11-03-2020 14:04:36.594 [html-report] [DEBUG] Transformed SuiteResult to report structure
+11-03-2020 14:04:36.617 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+11-03-2020 14:04:36.617 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+11-03-2020 14:04:36.617 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+11-03-2020 14:04:37.141 [Gauge] [DEBUG] Runner with PID:13956 has exited
+11-03-2020 14:04:37.141 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 14:04:37.141 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 14:04:37.141 [Gauge] [INFO] 
+Total time taken: 27.961s
+11-03-2020 14:58:55.983 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+11-03-2020 14:58:55.985 [Gauge] [DEBUG] Plugin java is already installed.
+11-03-2020 14:58:55.986 [Gauge] [DEBUG] Plugin html-report is already installed.
+11-03-2020 14:58:55.987 [Gauge] [DEBUG] Parsing started.
+11-03-2020 14:58:55.987 [Gauge] [DEBUG] Started concepts parsing.
+11-03-2020 14:58:55.992 [Gauge] [DEBUG] 0 concepts parsing completed.
+11-03-2020 14:58:55.992 [Gauge] [DEBUG] Started specifications parsing.
+11-03-2020 14:58:55.993 [Gauge] [DEBUG] 1 specifications parsing completed.
+11-03-2020 14:58:55.993 [Gauge] [DEBUG] Parsing completed.
+11-03-2020 14:58:56.633 [Gauge] [DEBUG] Checking updates...
+11-03-2020 14:58:56.634 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 14:58:57.805 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 14:58:58.070 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 14:58:58.470 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 14:59:03.464 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 62966
+11-03-2020 14:59:03.671 [Gauge] [DEBUG] Successfully made the connection with runner with port: 62966
+11-03-2020 14:59:03.671 [Gauge] [DEBUG] Validation started.
+11-03-2020 14:59:03.877 [Gauge] [DEBUG] Validation completed.
+11-03-2020 14:59:03.878 [Gauge] [DEBUG] Run started
+11-03-2020 14:59:03.878 [Gauge] [DEBUG] Starting Html Report plugin
+11-03-2020 14:59:03.914 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 62971
+11-03-2020 14:59:03.916 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 62971
+11-03-2020 14:59:03.916 [Gauge] [DEBUG] Initialising suite data store.
+11-03-2020 14:59:09.511 [java] [DEBUG] Scanning packages for steps
+11-03-2020 14:59:09.609 [java] [DEBUG] Scanning packages for hooks
+11-03-2020 14:59:30.146 [html-report] [DEBUG] Transformed SuiteResult to report structure
+11-03-2020 14:59:30.185 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+11-03-2020 14:59:30.185 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+11-03-2020 14:59:30.185 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+11-03-2020 14:59:30.714 [Gauge] [DEBUG] Runner with PID:14486 has exited
+11-03-2020 14:59:30.714 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+11-03-2020 14:59:30.714 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+11-03-2020 14:59:30.715 [Gauge] [INFO] 
+Total time taken: 26.264s
+11-03-2020 14:59:55.640 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+11-03-2020 14:59:55.642 [Gauge] [DEBUG] Plugin html-report is already installed.
+11-03-2020 14:59:55.642 [Gauge] [DEBUG] Plugin java is already installed.
+11-03-2020 14:59:55.643 [Gauge] [DEBUG] Parsing started.
+11-03-2020 14:59:55.643 [Gauge] [DEBUG] Started concepts parsing.
+11-03-2020 14:59:55.649 [Gauge] [DEBUG] 0 concepts parsing completed.
+11-03-2020 14:59:55.649 [Gauge] [DEBUG] Started specifications parsing.
+11-03-2020 14:59:55.651 [Gauge] [DEBUG] 1 specifications parsing completed.
+11-03-2020 14:59:55.651 [Gauge] [DEBUG] Parsing completed.
+11-03-2020 14:59:56.331 [Gauge] [DEBUG] Checking updates...
+11-03-2020 14:59:56.332 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 14:59:57.239 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 14:59:57.482 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 14:59:57.810 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 15:00:03.075 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 63113
+11-03-2020 15:00:03.279 [Gauge] [DEBUG] Successfully made the connection with runner with port: 63113
+11-03-2020 15:00:03.279 [Gauge] [DEBUG] Validation started.
+11-03-2020 15:00:03.446 [Gauge] [DEBUG] Validation completed.
+11-03-2020 15:00:03.446 [Gauge] [DEBUG] Run started
+11-03-2020 15:00:03.447 [Gauge] [DEBUG] Starting Html Report plugin
+11-03-2020 15:00:03.459 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 63118
+11-03-2020 15:00:03.462 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 63118
+11-03-2020 15:00:03.462 [Gauge] [DEBUG] Initialising suite data store.
+11-03-2020 15:00:08.914 [java] [DEBUG] Scanning packages for steps
+11-03-2020 15:00:08.989 [java] [DEBUG] Scanning packages for hooks
+11-03-2020 15:00:31.093 [html-report] [DEBUG] Transformed SuiteResult to report structure
+11-03-2020 15:00:31.111 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+11-03-2020 15:00:31.111 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+11-03-2020 15:00:31.111 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+11-03-2020 15:00:31.636 [Gauge] [DEBUG] Runner with PID:14568 has exited
+11-03-2020 15:00:31.637 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 15:00:31.637 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 15:00:31.637 [Gauge] [INFO] 
+Total time taken: 27.645s
+11-03-2020 15:03:33.644 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+11-03-2020 15:03:33.646 [Gauge] [DEBUG] Plugin java is already installed.
+11-03-2020 15:03:33.647 [Gauge] [DEBUG] Plugin html-report is already installed.
+11-03-2020 15:03:33.647 [Gauge] [DEBUG] Parsing started.
+11-03-2020 15:03:33.647 [Gauge] [DEBUG] Started concepts parsing.
+11-03-2020 15:03:33.653 [Gauge] [DEBUG] 0 concepts parsing completed.
+11-03-2020 15:03:33.653 [Gauge] [DEBUG] Started specifications parsing.
+11-03-2020 15:03:33.654 [Gauge] [DEBUG] 1 specifications parsing completed.
+11-03-2020 15:03:33.654 [Gauge] [DEBUG] Parsing completed.
+11-03-2020 15:03:34.499 [Gauge] [DEBUG] Checking updates...
+11-03-2020 15:03:34.501 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 15:03:35.946 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 15:03:36.336 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 15:03:36.741 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 15:03:40.754 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 63332
+11-03-2020 15:03:40.919 [Gauge] [DEBUG] Successfully made the connection with runner with port: 63332
+11-03-2020 15:03:40.919 [Gauge] [DEBUG] Validation started.
+11-03-2020 15:03:41.084 [Gauge] [DEBUG] Validation completed.
+11-03-2020 15:03:41.084 [Gauge] [DEBUG] Run started
+11-03-2020 15:03:41.085 [Gauge] [DEBUG] Starting Html Report plugin
+11-03-2020 15:03:41.097 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 63338
+11-03-2020 15:03:41.098 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 63338
+11-03-2020 15:03:41.098 [Gauge] [DEBUG] Initialising suite data store.
+11-03-2020 15:03:46.856 [java] [DEBUG] Scanning packages for steps
+11-03-2020 15:03:46.934 [java] [DEBUG] Scanning packages for hooks
+11-03-2020 15:04:10.438 [html-report] [DEBUG] Transformed SuiteResult to report structure
+11-03-2020 15:04:10.456 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+11-03-2020 15:04:10.456 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+11-03-2020 15:04:10.456 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+11-03-2020 15:04:10.972 [Gauge] [DEBUG] Runner with PID:14675 has exited
+11-03-2020 15:04:10.973 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 15:04:10.973 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 15:04:10.973 [Gauge] [INFO] 
+Total time taken: 29.351s
+11-03-2020 15:04:36.215 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+11-03-2020 15:04:36.216 [Gauge] [DEBUG] Plugin java is already installed.
+11-03-2020 15:04:36.217 [Gauge] [DEBUG] Plugin html-report is already installed.
+11-03-2020 15:04:36.217 [Gauge] [DEBUG] Parsing started.
+11-03-2020 15:04:36.217 [Gauge] [DEBUG] Started concepts parsing.
+11-03-2020 15:04:36.224 [Gauge] [DEBUG] 0 concepts parsing completed.
+11-03-2020 15:04:36.225 [Gauge] [DEBUG] Started specifications parsing.
+11-03-2020 15:04:36.226 [Gauge] [DEBUG] 1 specifications parsing completed.
+11-03-2020 15:04:36.226 [Gauge] [DEBUG] Parsing completed.
+11-03-2020 15:04:37.058 [Gauge] [DEBUG] Checking updates...
+11-03-2020 15:04:37.060 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 15:04:38.400 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 15:04:38.728 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 15:04:39.100 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 15:04:43.399 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 63489
+11-03-2020 15:04:43.574 [Gauge] [DEBUG] Successfully made the connection with runner with port: 63489
+11-03-2020 15:04:43.574 [Gauge] [DEBUG] Validation started.
+11-03-2020 15:04:43.758 [Gauge] [DEBUG] Validation completed.
+11-03-2020 15:04:43.758 [Gauge] [DEBUG] Run started
+11-03-2020 15:04:43.759 [Gauge] [DEBUG] Starting Html Report plugin
+11-03-2020 15:04:43.770 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 63494
+11-03-2020 15:04:43.771 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 63494
+11-03-2020 15:04:43.771 [Gauge] [DEBUG] Initialising suite data store.
+11-03-2020 15:04:48.962 [java] [DEBUG] Scanning packages for steps
+11-03-2020 15:04:49.048 [java] [DEBUG] Scanning packages for hooks
+11-03-2020 15:05:11.824 [html-report] [DEBUG] Transformed SuiteResult to report structure
+11-03-2020 15:05:11.841 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+11-03-2020 15:05:11.841 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+11-03-2020 15:05:11.842 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+11-03-2020 15:05:12.363 [Gauge] [DEBUG] Runner with PID:14744 has exited
+11-03-2020 15:05:12.363 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 15:05:12.363 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 15:05:12.363 [Gauge] [INFO] 
+Total time taken: 28.064s
+11-03-2020 15:29:58.270 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+11-03-2020 15:29:58.272 [Gauge] [DEBUG] Plugin java is already installed.
+11-03-2020 15:29:58.273 [Gauge] [DEBUG] Plugin html-report is already installed.
+11-03-2020 15:29:58.273 [Gauge] [DEBUG] Parsing started.
+11-03-2020 15:29:58.273 [Gauge] [DEBUG] Started concepts parsing.
+11-03-2020 15:29:58.279 [Gauge] [DEBUG] 0 concepts parsing completed.
+11-03-2020 15:29:58.279 [Gauge] [DEBUG] Started specifications parsing.
+11-03-2020 15:29:58.280 [Gauge] [DEBUG] 1 specifications parsing completed.
+11-03-2020 15:29:58.280 [Gauge] [DEBUG] Parsing completed.
+11-03-2020 15:29:59.120 [Gauge] [DEBUG] Checking updates...
+11-03-2020 15:29:59.122 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 15:30:00.320 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 15:30:00.672 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 15:30:00.920 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 15:30:05.800 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 64684
+11-03-2020 15:30:05.992 [Gauge] [DEBUG] Successfully made the connection with runner with port: 64684
+11-03-2020 15:30:05.992 [Gauge] [DEBUG] Validation started.
+11-03-2020 15:30:06.149 [Gauge] [DEBUG] Validation completed.
+11-03-2020 15:30:06.149 [Gauge] [DEBUG] Run started
+11-03-2020 15:30:06.150 [Gauge] [DEBUG] Starting Html Report plugin
+11-03-2020 15:30:06.187 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 64689
+11-03-2020 15:30:06.188 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 64689
+11-03-2020 15:30:06.188 [Gauge] [DEBUG] Initialising suite data store.
+11-03-2020 15:30:11.474 [java] [DEBUG] Scanning packages for steps
+11-03-2020 15:30:11.550 [java] [DEBUG] Scanning packages for hooks
+11-03-2020 15:30:36.209 [html-report] [DEBUG] Transformed SuiteResult to report structure
+11-03-2020 15:30:36.233 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+11-03-2020 15:30:36.233 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+11-03-2020 15:30:36.233 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+11-03-2020 15:30:36.755 [Gauge] [DEBUG] Runner with PID:15215 has exited
+11-03-2020 15:30:36.755 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 15:30:36.756 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 15:30:36.756 [Gauge] [INFO] 
+Total time taken: 30.055s
+11-03-2020 15:31:49.293 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+11-03-2020 15:31:49.295 [Gauge] [DEBUG] Plugin java is already installed.
+11-03-2020 15:31:49.296 [Gauge] [DEBUG] Plugin html-report is already installed.
+11-03-2020 15:31:49.296 [Gauge] [DEBUG] Parsing started.
+11-03-2020 15:31:49.297 [Gauge] [DEBUG] Started concepts parsing.
+11-03-2020 15:31:49.306 [Gauge] [DEBUG] 0 concepts parsing completed.
+11-03-2020 15:31:49.306 [Gauge] [DEBUG] Started specifications parsing.
+11-03-2020 15:31:49.307 [Gauge] [DEBUG] 1 specifications parsing completed.
+11-03-2020 15:31:49.307 [Gauge] [DEBUG] Parsing completed.
+11-03-2020 15:31:50.237 [Gauge] [DEBUG] Checking updates...
+11-03-2020 15:31:50.239 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 15:31:51.455 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 15:31:51.714 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 15:31:51.977 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 15:31:56.899 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 64864
+11-03-2020 15:31:57.079 [Gauge] [DEBUG] Successfully made the connection with runner with port: 64864
+11-03-2020 15:31:57.079 [Gauge] [DEBUG] Validation started.
+11-03-2020 15:31:57.257 [Gauge] [DEBUG] Validation completed.
+11-03-2020 15:31:57.257 [Gauge] [DEBUG] Run started
+11-03-2020 15:31:57.258 [Gauge] [DEBUG] Starting Html Report plugin
+11-03-2020 15:31:57.269 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 64870
+11-03-2020 15:31:57.271 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 64870
+11-03-2020 15:31:57.271 [Gauge] [DEBUG] Initialising suite data store.
+11-03-2020 15:32:02.603 [java] [DEBUG] Scanning packages for steps
+11-03-2020 15:32:02.677 [java] [DEBUG] Scanning packages for hooks
+11-03-2020 15:32:28.900 [html-report] [DEBUG] Transformed SuiteResult to report structure
+11-03-2020 15:32:28.917 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+11-03-2020 15:32:28.917 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+11-03-2020 15:32:28.917 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+11-03-2020 15:32:29.439 [Gauge] [DEBUG] Runner with PID:15326 has exited
+11-03-2020 15:32:29.440 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 15:32:29.441 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 15:32:29.441 [Gauge] [INFO] 
+Total time taken: 31.64s
+11-03-2020 15:32:59.467 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+11-03-2020 15:32:59.468 [Gauge] [DEBUG] Plugin java is already installed.
+11-03-2020 15:32:59.469 [Gauge] [DEBUG] Plugin html-report is already installed.
+11-03-2020 15:32:59.469 [Gauge] [DEBUG] Parsing started.
+11-03-2020 15:32:59.469 [Gauge] [DEBUG] Started concepts parsing.
+11-03-2020 15:32:59.475 [Gauge] [DEBUG] 0 concepts parsing completed.
+11-03-2020 15:32:59.476 [Gauge] [DEBUG] Started specifications parsing.
+11-03-2020 15:32:59.476 [Gauge] [DEBUG] 1 specifications parsing completed.
+11-03-2020 15:32:59.477 [Gauge] [DEBUG] Parsing completed.
+11-03-2020 15:33:00.168 [Gauge] [DEBUG] Checking updates...
+11-03-2020 15:33:00.171 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 15:33:06.649 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 65027
+11-03-2020 15:33:06.813 [Gauge] [DEBUG] Successfully made the connection with runner with port: 65027
+11-03-2020 15:33:06.813 [Gauge] [DEBUG] Validation started.
+11-03-2020 15:33:06.976 [Gauge] [DEBUG] Validation completed.
+11-03-2020 15:33:06.976 [Gauge] [DEBUG] Run started
+11-03-2020 15:33:06.977 [Gauge] [DEBUG] Starting Html Report plugin
+11-03-2020 15:33:06.987 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 65032
+11-03-2020 15:33:06.988 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 65032
+11-03-2020 15:33:06.988 [Gauge] [DEBUG] Initialising suite data store.
+11-03-2020 15:33:11.419 [Gauge] [DEBUG] Failed to download html-report-install.json file: Get https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64: net/http: TLS handshake timeout
+11-03-2020 15:33:11.420 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 15:33:11.969 [java] [DEBUG] Scanning packages for steps
+11-03-2020 15:33:12.054 [java] [DEBUG] Scanning packages for hooks
+11-03-2020 15:33:12.567 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 15:33:12.877 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 15:33:36.117 [html-report] [DEBUG] Transformed SuiteResult to report structure
+11-03-2020 15:33:36.134 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+11-03-2020 15:33:36.134 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+11-03-2020 15:33:36.134 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+11-03-2020 15:33:36.661 [Gauge] [DEBUG] Runner with PID:15403 has exited
+11-03-2020 15:33:36.661 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 15:33:36.661 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 15:33:36.661 [Gauge] [INFO] 
+Total time taken: 29.131s
+11-03-2020 16:27:54.657 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+11-03-2020 16:27:54.660 [Gauge] [DEBUG] Plugin java is already installed.
+11-03-2020 16:27:54.661 [Gauge] [DEBUG] Plugin html-report is already installed.
+11-03-2020 16:27:54.661 [Gauge] [DEBUG] Parsing started.
+11-03-2020 16:27:54.661 [Gauge] [DEBUG] Started concepts parsing.
+11-03-2020 16:27:54.669 [Gauge] [DEBUG] 0 concepts parsing completed.
+11-03-2020 16:27:54.669 [Gauge] [DEBUG] Started specifications parsing.
+11-03-2020 16:27:54.670 [Gauge] [DEBUG] 1 specifications parsing completed.
+11-03-2020 16:27:54.670 [Gauge] [DEBUG] Parsing completed.
+11-03-2020 16:27:55.287 [Gauge] [DEBUG] Checking updates...
+11-03-2020 16:27:55.288 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 16:27:56.382 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 16:27:56.651 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 16:27:56.903 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 16:28:01.966 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 63004
+11-03-2020 16:28:02.185 [Gauge] [DEBUG] Successfully made the connection with runner with port: 63004
+11-03-2020 16:28:02.185 [Gauge] [DEBUG] Validation started.
+11-03-2020 16:28:02.374 [Gauge] [DEBUG] Validation completed.
+11-03-2020 16:28:02.374 [Gauge] [DEBUG] Run started
+11-03-2020 16:28:02.375 [Gauge] [DEBUG] Starting Html Report plugin
+11-03-2020 16:28:02.411 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 63009
+11-03-2020 16:28:02.412 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 63009
+11-03-2020 16:28:02.412 [Gauge] [DEBUG] Initialising suite data store.
+11-03-2020 16:28:07.996 [java] [DEBUG] Scanning packages for steps
+11-03-2020 16:28:08.084 [java] [DEBUG] Scanning packages for hooks
+11-03-2020 16:28:36.237 [html-report] [DEBUG] Transformed SuiteResult to report structure
+11-03-2020 16:28:36.262 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+11-03-2020 16:28:36.262 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+11-03-2020 16:28:36.262 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+11-03-2020 16:28:36.778 [Gauge] [DEBUG] Runner with PID:17604 has exited
+11-03-2020 16:28:36.779 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 16:28:36.779 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 16:28:36.779 [Gauge] [INFO] 
+Total time taken: 33.858s
+11-03-2020 16:30:00.272 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+11-03-2020 16:30:00.276 [Gauge] [DEBUG] Plugin java is already installed.
+11-03-2020 16:30:00.278 [Gauge] [DEBUG] Plugin html-report is already installed.
+11-03-2020 16:30:00.279 [Gauge] [DEBUG] Parsing started.
+11-03-2020 16:30:00.279 [Gauge] [DEBUG] Started concepts parsing.
+11-03-2020 16:30:00.285 [Gauge] [DEBUG] 0 concepts parsing completed.
+11-03-2020 16:30:00.286 [Gauge] [DEBUG] Started specifications parsing.
+11-03-2020 16:30:00.286 [Gauge] [DEBUG] 1 specifications parsing completed.
+11-03-2020 16:30:00.286 [Gauge] [DEBUG] Parsing completed.
+11-03-2020 16:30:01.120 [Gauge] [DEBUG] Checking updates...
+11-03-2020 16:30:01.122 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 16:30:02.328 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 16:30:02.584 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 16:30:02.838 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 16:30:07.789 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 63207
+11-03-2020 16:30:07.966 [Gauge] [DEBUG] Successfully made the connection with runner with port: 63207
+11-03-2020 16:30:07.966 [Gauge] [DEBUG] Validation started.
+11-03-2020 16:30:08.158 [Gauge] [DEBUG] Validation completed.
+11-03-2020 16:30:08.158 [Gauge] [DEBUG] Run started
+11-03-2020 16:30:08.159 [Gauge] [DEBUG] Starting Html Report plugin
+11-03-2020 16:30:08.182 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 63212
+11-03-2020 16:30:08.183 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 63212
+11-03-2020 16:30:08.183 [Gauge] [DEBUG] Initialising suite data store.
+11-03-2020 16:30:13.735 [java] [DEBUG] Scanning packages for steps
+11-03-2020 16:30:13.820 [java] [DEBUG] Scanning packages for hooks
+11-03-2020 16:30:39.287 [html-report] [DEBUG] Transformed SuiteResult to report structure
+11-03-2020 16:30:39.306 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+11-03-2020 16:30:39.306 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+11-03-2020 16:30:39.306 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+11-03-2020 16:30:39.824 [Gauge] [DEBUG] Runner with PID:17703 has exited
+11-03-2020 16:30:39.827 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 16:30:39.827 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 16:30:39.827 [Gauge] [INFO] 
+Total time taken: 31.126s
+11-03-2020 16:43:15.463 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+11-03-2020 16:43:15.464 [Gauge] [DEBUG] Plugin java is already installed.
+11-03-2020 16:43:15.465 [Gauge] [DEBUG] Plugin html-report is already installed.
+11-03-2020 16:43:15.466 [Gauge] [DEBUG] Parsing started.
+11-03-2020 16:43:15.466 [Gauge] [DEBUG] Started concepts parsing.
+11-03-2020 16:43:15.477 [Gauge] [DEBUG] 0 concepts parsing completed.
+11-03-2020 16:43:15.477 [Gauge] [DEBUG] Started specifications parsing.
+11-03-2020 16:43:15.478 [Gauge] [DEBUG] 1 specifications parsing completed.
+11-03-2020 16:43:15.478 [Gauge] [DEBUG] Parsing completed.
+11-03-2020 16:43:16.133 [Gauge] [DEBUG] Checking updates...
+11-03-2020 16:43:16.135 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 16:43:17.211 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 16:43:17.477 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 16:43:17.783 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 16:43:22.784 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 64014
+11-03-2020 16:43:22.970 [Gauge] [DEBUG] Successfully made the connection with runner with port: 64014
+11-03-2020 16:43:22.970 [Gauge] [DEBUG] Validation started.
+11-03-2020 16:43:23.151 [Gauge] [DEBUG] Validation completed.
+11-03-2020 16:43:23.151 [Gauge] [DEBUG] Run started
+11-03-2020 16:43:23.152 [Gauge] [DEBUG] Starting Html Report plugin
+11-03-2020 16:43:23.189 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 64019
+11-03-2020 16:43:23.193 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 64019
+11-03-2020 16:43:23.193 [Gauge] [DEBUG] Initialising suite data store.
+11-03-2020 16:43:29.671 [java] [DEBUG] Scanning packages for steps
+11-03-2020 16:43:29.757 [java] [DEBUG] Scanning packages for hooks
+11-03-2020 16:44:05.263 [html-report] [DEBUG] Transformed SuiteResult to report structure
+11-03-2020 16:44:05.292 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+11-03-2020 16:44:05.292 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+11-03-2020 16:44:05.292 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+11-03-2020 16:44:05.808 [Gauge] [DEBUG] Runner with PID:18017 has exited
+11-03-2020 16:44:05.809 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 16:44:05.809 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 16:44:05.809 [Gauge] [INFO] 
+Total time taken: 42.107s
+11-03-2020 16:49:57.156 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+11-03-2020 16:49:57.160 [Gauge] [DEBUG] Plugin java is already installed.
+11-03-2020 16:49:57.162 [Gauge] [DEBUG] Plugin html-report is already installed.
+11-03-2020 16:49:57.163 [Gauge] [DEBUG] Parsing started.
+11-03-2020 16:49:57.163 [Gauge] [DEBUG] Started concepts parsing.
+11-03-2020 16:49:57.172 [Gauge] [DEBUG] 0 concepts parsing completed.
+11-03-2020 16:49:57.172 [Gauge] [DEBUG] Started specifications parsing.
+11-03-2020 16:49:57.174 [Gauge] [DEBUG] 1 specifications parsing completed.
+11-03-2020 16:49:57.174 [Gauge] [DEBUG] Parsing completed.
+11-03-2020 16:49:57.822 [Gauge] [DEBUG] Checking updates...
+11-03-2020 16:49:57.827 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 16:49:58.886 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 16:49:59.141 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 16:49:59.395 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+11-03-2020 16:50:05.249 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 64507
+11-03-2020 16:50:05.442 [Gauge] [DEBUG] Successfully made the connection with runner with port: 64507
+11-03-2020 16:50:05.442 [Gauge] [DEBUG] Validation started.
+11-03-2020 16:50:05.602 [Gauge] [DEBUG] Validation completed.
+11-03-2020 16:50:05.602 [Gauge] [DEBUG] Run started
+11-03-2020 16:50:05.603 [Gauge] [DEBUG] Starting Html Report plugin
+11-03-2020 16:50:05.635 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 64512
+11-03-2020 16:50:05.637 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 64512
+11-03-2020 16:50:05.637 [Gauge] [DEBUG] Initialising suite data store.
+11-03-2020 16:50:10.838 [java] [DEBUG] Scanning packages for steps
+11-03-2020 16:50:10.926 [java] [DEBUG] Scanning packages for hooks
+11-03-2020 16:50:47.636 [html-report] [DEBUG] Transformed SuiteResult to report structure
+11-03-2020 16:50:47.666 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+11-03-2020 16:50:47.666 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+11-03-2020 16:50:47.666 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+11-03-2020 16:50:48.183 [Gauge] [DEBUG] Runner with PID:18238 has exited
+11-03-2020 16:50:48.183 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 16:50:48.183 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11-03-2020 16:50:48.183 [Gauge] [INFO] 
+Total time taken: 42.029s
+12-03-2020 13:07:34.468 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+12-03-2020 13:07:34.472 [Gauge] [DEBUG] Plugin java is already installed.
+12-03-2020 13:07:34.473 [Gauge] [DEBUG] Plugin html-report is already installed.
+12-03-2020 13:07:34.474 [Gauge] [DEBUG] Parsing started.
+12-03-2020 13:07:34.474 [Gauge] [DEBUG] Started concepts parsing.
+12-03-2020 13:07:34.480 [Gauge] [DEBUG] 0 concepts parsing completed.
+12-03-2020 13:07:34.480 [Gauge] [DEBUG] Started specifications parsing.
+12-03-2020 13:07:34.481 [Gauge] [DEBUG] 1 specifications parsing completed.
+12-03-2020 13:07:34.482 [Gauge] [DEBUG] Parsing completed.
+12-03-2020 13:07:35.141 [Gauge] [DEBUG] Checking updates...
+12-03-2020 13:07:35.142 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 13:07:36.275 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 13:07:36.519 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 13:07:36.756 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 13:07:42.089 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51024
+12-03-2020 13:07:42.302 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51024
+12-03-2020 13:07:42.302 [Gauge] [DEBUG] Validation started.
+12-03-2020 13:07:42.495 [Gauge] [DEBUG] Validation completed.
+12-03-2020 13:07:42.497 [Gauge] [DEBUG] Run started
+12-03-2020 13:07:42.498 [Gauge] [DEBUG] Starting Html Report plugin
+12-03-2020 13:07:42.549 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51030
+12-03-2020 13:07:42.551 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51030
+12-03-2020 13:07:42.551 [Gauge] [DEBUG] Initialising suite data store.
+12-03-2020 13:07:49.548 [java] [DEBUG] Scanning packages for steps
+12-03-2020 13:07:49.626 [java] [DEBUG] Scanning packages for hooks
+12-03-2020 13:09:13.595 [html-report] [DEBUG] Transformed SuiteResult to report structure
+12-03-2020 13:09:13.632 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+12-03-2020 13:09:13.632 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+12-03-2020 13:09:13.633 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+12-03-2020 13:09:14.151 [Gauge] [DEBUG] Runner with PID:19220 has exited
+12-03-2020 13:09:14.151 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+12-03-2020 13:09:14.151 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+12-03-2020 13:09:14.151 [Gauge] [INFO] 
+Total time taken: 1m31.092s
+12-03-2020 13:41:29.590 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+12-03-2020 13:41:29.593 [Gauge] [DEBUG] Plugin java is already installed.
+12-03-2020 13:41:29.594 [Gauge] [DEBUG] Plugin html-report is already installed.
+12-03-2020 13:41:29.594 [Gauge] [DEBUG] Parsing started.
+12-03-2020 13:41:29.594 [Gauge] [DEBUG] Started concepts parsing.
+12-03-2020 13:41:29.603 [Gauge] [DEBUG] 0 concepts parsing completed.
+12-03-2020 13:41:29.603 [Gauge] [DEBUG] Started specifications parsing.
+12-03-2020 13:41:29.604 [Gauge] [DEBUG] 1 specifications parsing completed.
+12-03-2020 13:41:29.604 [Gauge] [DEBUG] Parsing completed.
+12-03-2020 13:41:30.316 [Gauge] [DEBUG] Checking updates...
+12-03-2020 13:41:30.317 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 13:41:31.436 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 13:41:31.713 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 13:41:31.968 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 13:41:37.549 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 52300
+12-03-2020 13:41:37.738 [Gauge] [DEBUG] Successfully made the connection with runner with port: 52300
+12-03-2020 13:41:37.738 [Gauge] [DEBUG] Validation started.
+12-03-2020 13:41:37.923 [Gauge] [DEBUG] Validation completed.
+12-03-2020 13:41:37.923 [Gauge] [DEBUG] Run started
+12-03-2020 13:41:37.924 [Gauge] [DEBUG] Starting Html Report plugin
+12-03-2020 13:41:37.971 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 52305
+12-03-2020 13:41:37.974 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 52305
+12-03-2020 13:41:37.974 [Gauge] [DEBUG] Initialising suite data store.
+12-03-2020 13:41:43.575 [java] [DEBUG] Scanning packages for steps
+12-03-2020 13:41:43.647 [java] [DEBUG] Scanning packages for hooks
+12-03-2020 13:53:14.962 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+12-03-2020 13:53:14.964 [Gauge] [DEBUG] Plugin java is already installed.
+12-03-2020 13:53:14.965 [Gauge] [DEBUG] Plugin html-report is already installed.
+12-03-2020 13:53:14.965 [Gauge] [DEBUG] Parsing started.
+12-03-2020 13:53:14.965 [Gauge] [DEBUG] Started concepts parsing.
+12-03-2020 13:53:14.973 [Gauge] [DEBUG] 0 concepts parsing completed.
+12-03-2020 13:53:14.974 [Gauge] [DEBUG] Started specifications parsing.
+12-03-2020 13:53:14.975 [Gauge] [DEBUG] 1 specifications parsing completed.
+12-03-2020 13:53:14.975 [Gauge] [DEBUG] Parsing completed.
+12-03-2020 13:53:15.823 [Gauge] [DEBUG] Checking updates...
+12-03-2020 13:53:15.824 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 13:53:16.854 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 13:53:17.107 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 13:53:17.353 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 13:53:22.558 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 52915
+12-03-2020 13:53:22.753 [Gauge] [DEBUG] Successfully made the connection with runner with port: 52915
+12-03-2020 13:53:22.753 [Gauge] [DEBUG] Validation started.
+12-03-2020 13:53:22.928 [Gauge] [DEBUG] Validation completed.
+12-03-2020 13:53:22.928 [Gauge] [DEBUG] Run started
+12-03-2020 13:53:22.929 [Gauge] [DEBUG] Starting Html Report plugin
+12-03-2020 13:53:22.985 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 52920
+12-03-2020 13:53:22.988 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 52920
+12-03-2020 13:53:22.988 [Gauge] [DEBUG] Initialising suite data store.
+12-03-2020 13:53:28.155 [java] [DEBUG] Scanning packages for steps
+12-03-2020 13:53:28.230 [java] [DEBUG] Scanning packages for hooks
+12-03-2020 13:54:04.448 [html-report] [DEBUG] Transformed SuiteResult to report structure
+12-03-2020 13:54:04.499 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+12-03-2020 13:54:04.499 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+12-03-2020 13:54:04.499 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+12-03-2020 13:54:05.126 [Gauge] [DEBUG] Runner with PID:19400 has exited
+12-03-2020 13:54:05.126 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+12-03-2020 13:54:05.126 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+12-03-2020 13:54:05.126 [Gauge] [INFO] 
+Total time taken: 41.515s
+12-03-2020 13:57:26.656 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+12-03-2020 13:57:26.658 [Gauge] [DEBUG] Plugin java is already installed.
+12-03-2020 13:57:26.659 [Gauge] [DEBUG] Plugin html-report is already installed.
+12-03-2020 13:57:26.660 [Gauge] [DEBUG] Parsing started.
+12-03-2020 13:57:26.660 [Gauge] [DEBUG] Started concepts parsing.
+12-03-2020 13:57:26.669 [Gauge] [DEBUG] 0 concepts parsing completed.
+12-03-2020 13:57:26.669 [Gauge] [DEBUG] Started specifications parsing.
+12-03-2020 13:57:26.670 [Gauge] [DEBUG] 1 specifications parsing completed.
+12-03-2020 13:57:26.670 [Gauge] [DEBUG] Parsing completed.
+12-03-2020 13:57:27.406 [Gauge] [DEBUG] Checking updates...
+12-03-2020 13:57:27.407 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 13:57:28.339 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 13:57:28.569 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 13:57:28.795 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 13:57:34.032 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 53380
+12-03-2020 13:57:34.221 [Gauge] [DEBUG] Successfully made the connection with runner with port: 53380
+12-03-2020 13:57:34.221 [Gauge] [DEBUG] Validation started.
+12-03-2020 13:57:34.398 [Gauge] [DEBUG] Validation completed.
+12-03-2020 13:57:34.399 [Gauge] [DEBUG] Run started
+12-03-2020 13:57:34.399 [Gauge] [DEBUG] Starting Html Report plugin
+12-03-2020 13:57:34.444 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 53386
+12-03-2020 13:57:34.447 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 53386
+12-03-2020 13:57:34.447 [Gauge] [DEBUG] Initialising suite data store.
+12-03-2020 13:57:39.569 [java] [DEBUG] Scanning packages for steps
+12-03-2020 13:57:39.645 [java] [DEBUG] Scanning packages for hooks
+12-03-2020 13:58:13.363 [html-report] [DEBUG] Transformed SuiteResult to report structure
+12-03-2020 13:58:13.460 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+12-03-2020 13:58:13.460 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+12-03-2020 13:58:13.461 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+12-03-2020 13:58:13.979 [Gauge] [DEBUG] Runner with PID:19505 has exited
+12-03-2020 13:58:13.980 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+12-03-2020 13:58:13.980 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+12-03-2020 13:58:13.980 [Gauge] [INFO] 
+Total time taken: 38.958s
+12-03-2020 13:58:34.341 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+12-03-2020 13:58:34.346 [Gauge] [DEBUG] Plugin java is already installed.
+12-03-2020 13:58:34.347 [Gauge] [DEBUG] Plugin html-report is already installed.
+12-03-2020 13:58:34.348 [Gauge] [DEBUG] Parsing started.
+12-03-2020 13:58:34.348 [Gauge] [DEBUG] Started concepts parsing.
+12-03-2020 13:58:34.355 [Gauge] [DEBUG] 0 concepts parsing completed.
+12-03-2020 13:58:34.355 [Gauge] [DEBUG] Started specifications parsing.
+12-03-2020 13:58:34.356 [Gauge] [DEBUG] 1 specifications parsing completed.
+12-03-2020 13:58:34.356 [Gauge] [DEBUG] Parsing completed.
+12-03-2020 13:58:35.041 [Gauge] [DEBUG] Checking updates...
+12-03-2020 13:58:35.043 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 13:58:36.026 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 13:58:36.276 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 13:58:36.520 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 13:58:41.582 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 53558
+12-03-2020 13:58:41.733 [Gauge] [DEBUG] Successfully made the connection with runner with port: 53558
+12-03-2020 13:58:41.733 [Gauge] [DEBUG] Validation started.
+12-03-2020 13:58:41.893 [Gauge] [DEBUG] Validation completed.
+12-03-2020 13:58:41.893 [Gauge] [DEBUG] Run started
+12-03-2020 13:58:41.894 [Gauge] [DEBUG] Starting Html Report plugin
+12-03-2020 13:58:41.904 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 53563
+12-03-2020 13:58:41.905 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 53563
+12-03-2020 13:58:41.905 [Gauge] [DEBUG] Initialising suite data store.
+12-03-2020 13:58:47.261 [java] [DEBUG] Scanning packages for steps
+12-03-2020 13:58:47.337 [java] [DEBUG] Scanning packages for hooks
+12-03-2020 13:59:34.155 [html-report] [DEBUG] Transformed SuiteResult to report structure
+12-03-2020 13:59:34.185 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+12-03-2020 13:59:34.185 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+12-03-2020 13:59:34.185 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+12-03-2020 13:59:34.701 [Gauge] [DEBUG] Runner with PID:19560 has exited
+12-03-2020 13:59:34.702 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+12-03-2020 13:59:34.702 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+12-03-2020 13:59:34.702 [Gauge] [INFO] 
+Total time taken: 52.258s
+12-03-2020 14:00:18.883 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+12-03-2020 14:00:18.884 [Gauge] [DEBUG] Plugin html-report is already installed.
+12-03-2020 14:00:18.885 [Gauge] [DEBUG] Plugin java is already installed.
+12-03-2020 14:00:18.886 [Gauge] [DEBUG] Parsing started.
+12-03-2020 14:00:18.886 [Gauge] [DEBUG] Started concepts parsing.
+12-03-2020 14:00:18.893 [Gauge] [DEBUG] 0 concepts parsing completed.
+12-03-2020 14:00:18.893 [Gauge] [DEBUG] Started specifications parsing.
+12-03-2020 14:00:18.894 [Gauge] [DEBUG] 1 specifications parsing completed.
+12-03-2020 14:00:18.894 [Gauge] [DEBUG] Parsing completed.
+12-03-2020 14:00:19.498 [Gauge] [DEBUG] Checking updates...
+12-03-2020 14:00:19.500 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 14:00:20.491 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 14:00:20.736 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 14:00:20.980 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 14:00:25.997 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 53776
+12-03-2020 14:00:26.154 [Gauge] [DEBUG] Successfully made the connection with runner with port: 53776
+12-03-2020 14:00:26.154 [Gauge] [DEBUG] Validation started.
+12-03-2020 14:00:26.320 [Gauge] [DEBUG] Validation completed.
+12-03-2020 14:00:26.321 [Gauge] [DEBUG] Run started
+12-03-2020 14:00:26.322 [Gauge] [DEBUG] Starting Html Report plugin
+12-03-2020 14:00:26.333 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 53781
+12-03-2020 14:00:26.334 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 53781
+12-03-2020 14:00:26.334 [Gauge] [DEBUG] Initialising suite data store.
+12-03-2020 14:00:31.391 [java] [DEBUG] Scanning packages for steps
+12-03-2020 14:00:31.467 [java] [DEBUG] Scanning packages for hooks
+12-03-2020 14:01:11.502 [html-report] [DEBUG] Transformed SuiteResult to report structure
+12-03-2020 14:01:11.526 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+12-03-2020 14:01:11.526 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+12-03-2020 14:01:11.526 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+12-03-2020 14:01:12.049 [Gauge] [DEBUG] Runner with PID:19613 has exited
+12-03-2020 14:01:12.049 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+12-03-2020 14:01:12.049 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+12-03-2020 14:01:12.049 [Gauge] [INFO] 
+Total time taken: 45.178s
+12-03-2020 15:21:38.483 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+12-03-2020 15:21:38.485 [Gauge] [DEBUG] Plugin java is already installed.
+12-03-2020 15:21:38.486 [Gauge] [DEBUG] Plugin html-report is already installed.
+12-03-2020 15:21:38.487 [Gauge] [DEBUG] Parsing started.
+12-03-2020 15:21:38.487 [Gauge] [DEBUG] Started concepts parsing.
+12-03-2020 15:21:38.493 [Gauge] [DEBUG] 0 concepts parsing completed.
+12-03-2020 15:21:38.493 [Gauge] [DEBUG] Started specifications parsing.
+12-03-2020 15:21:38.494 [Gauge] [DEBUG] 1 specifications parsing completed.
+12-03-2020 15:21:38.495 [Gauge] [DEBUG] Parsing completed.
+12-03-2020 15:21:39.140 [Gauge] [DEBUG] Checking updates...
+12-03-2020 15:21:39.141 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 15:21:40.075 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 15:21:40.317 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 15:21:40.546 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 15:21:45.744 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56951
+12-03-2020 15:21:46.029 [Gauge] [DEBUG] Successfully made the connection with runner with port: 56951
+12-03-2020 15:21:46.030 [Gauge] [DEBUG] Validation started.
+12-03-2020 15:21:46.302 [Gauge] [DEBUG] Validation completed.
+12-03-2020 15:21:46.302 [Gauge] [DEBUG] Run started
+12-03-2020 15:21:46.304 [Gauge] [DEBUG] Starting Html Report plugin
+12-03-2020 15:21:46.343 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56956
+12-03-2020 15:21:46.345 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 56956
+12-03-2020 15:21:46.345 [Gauge] [DEBUG] Initialising suite data store.
+12-03-2020 15:21:53.137 [java] [DEBUG] Scanning packages for steps
+12-03-2020 15:21:53.224 [java] [DEBUG] Scanning packages for hooks
+12-03-2020 15:22:36.373 [html-report] [DEBUG] Transformed SuiteResult to report structure
+12-03-2020 15:22:36.439 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+12-03-2020 15:22:36.439 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+12-03-2020 15:22:36.440 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+12-03-2020 15:22:36.960 [Gauge] [DEBUG] Runner with PID:19860 has exited
+12-03-2020 15:22:36.960 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+12-03-2020 15:22:36.960 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+12-03-2020 15:22:36.960 [Gauge] [INFO] 
+Total time taken: 50.057s
+12-03-2020 15:25:36.233 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+12-03-2020 15:25:36.234 [Gauge] [DEBUG] Plugin java is already installed.
+12-03-2020 15:25:36.235 [Gauge] [DEBUG] Plugin html-report is already installed.
+12-03-2020 15:25:36.236 [Gauge] [DEBUG] Parsing started.
+12-03-2020 15:25:36.236 [Gauge] [DEBUG] Started concepts parsing.
+12-03-2020 15:25:36.242 [Gauge] [DEBUG] 0 concepts parsing completed.
+12-03-2020 15:25:36.242 [Gauge] [DEBUG] Started specifications parsing.
+12-03-2020 15:25:36.243 [Gauge] [DEBUG] 1 specifications parsing completed.
+12-03-2020 15:25:36.243 [Gauge] [DEBUG] Parsing completed.
+12-03-2020 15:25:37.257 [Gauge] [DEBUG] Checking updates...
+12-03-2020 15:25:37.260 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 15:25:38.152 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 15:25:38.456 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 15:25:38.761 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 15:25:44.450 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57229
+12-03-2020 15:25:44.611 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57229
+12-03-2020 15:25:44.611 [Gauge] [DEBUG] Validation started.
+12-03-2020 15:25:44.773 [Gauge] [DEBUG] Validation completed.
+12-03-2020 15:25:44.773 [Gauge] [DEBUG] Run started
+12-03-2020 15:25:44.774 [Gauge] [DEBUG] Starting Html Report plugin
+12-03-2020 15:25:44.816 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57234
+12-03-2020 15:25:44.818 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 57234
+12-03-2020 15:25:44.818 [Gauge] [DEBUG] Initialising suite data store.
+12-03-2020 15:25:49.895 [java] [DEBUG] Scanning packages for steps
+12-03-2020 15:25:49.980 [java] [DEBUG] Scanning packages for hooks
+12-03-2020 15:26:31.144 [html-report] [DEBUG] Transformed SuiteResult to report structure
+12-03-2020 15:26:31.185 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+12-03-2020 15:26:31.185 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+12-03-2020 15:26:31.185 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+12-03-2020 15:26:31.717 [Gauge] [DEBUG] Runner with PID:19923 has exited
+12-03-2020 15:26:31.717 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+12-03-2020 15:26:31.717 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+12-03-2020 15:26:31.717 [Gauge] [INFO] 
+Total time taken: 46.364s
+12-03-2020 15:48:00.655 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+12-03-2020 15:48:00.658 [Gauge] [DEBUG] Plugin java is already installed.
+12-03-2020 15:48:00.659 [Gauge] [DEBUG] Plugin html-report is already installed.
+12-03-2020 15:48:00.659 [Gauge] [DEBUG] Parsing started.
+12-03-2020 15:48:00.659 [Gauge] [DEBUG] Started concepts parsing.
+12-03-2020 15:48:00.671 [Gauge] [DEBUG] 0 concepts parsing completed.
+12-03-2020 15:48:00.671 [Gauge] [DEBUG] Started specifications parsing.
+12-03-2020 15:48:00.673 [Gauge] [DEBUG] 1 specifications parsing completed.
+12-03-2020 15:48:00.673 [Gauge] [DEBUG] Parsing completed.
+12-03-2020 15:48:01.824 [Gauge] [DEBUG] Checking updates...
+12-03-2020 15:48:01.826 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 15:48:02.872 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 15:48:03.178 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 15:48:03.480 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 15:48:09.855 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58100
+12-03-2020 15:48:10.059 [Gauge] [DEBUG] Successfully made the connection with runner with port: 58100
+12-03-2020 15:48:10.059 [Gauge] [DEBUG] Validation started.
+12-03-2020 15:48:10.259 [Gauge] [DEBUG] Validation completed.
+12-03-2020 15:48:10.259 [Gauge] [DEBUG] Run started
+12-03-2020 15:48:10.260 [Gauge] [DEBUG] Starting Html Report plugin
+12-03-2020 15:48:10.296 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58105
+12-03-2020 15:48:10.298 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 58105
+12-03-2020 15:48:10.298 [Gauge] [DEBUG] Initialising suite data store.
+12-03-2020 15:48:15.892 [java] [DEBUG] Scanning packages for steps
+12-03-2020 15:48:15.972 [java] [DEBUG] Scanning packages for hooks
+12-03-2020 15:49:00.810 [html-report] [DEBUG] Transformed SuiteResult to report structure
+12-03-2020 15:49:00.843 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+12-03-2020 15:49:00.843 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+12-03-2020 15:49:00.843 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+12-03-2020 15:49:01.360 [Gauge] [DEBUG] Runner with PID:19997 has exited
+12-03-2020 15:49:01.360 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+12-03-2020 15:49:01.360 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+12-03-2020 15:49:01.360 [Gauge] [INFO] 
+Total time taken: 50.539s
+12-03-2020 21:12:35.525 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+12-03-2020 21:12:35.530 [Gauge] [DEBUG] Plugin java is already installed.
+12-03-2020 21:12:35.531 [Gauge] [DEBUG] Plugin html-report is already installed.
+12-03-2020 21:12:35.533 [Gauge] [DEBUG] Parsing started.
+12-03-2020 21:12:35.533 [Gauge] [DEBUG] Started concepts parsing.
+12-03-2020 21:12:35.540 [Gauge] [DEBUG] 0 concepts parsing completed.
+12-03-2020 21:12:35.541 [Gauge] [DEBUG] Started specifications parsing.
+12-03-2020 21:12:35.543 [Gauge] [DEBUG] 1 specifications parsing completed.
+12-03-2020 21:12:35.549 [Gauge] [DEBUG] Parsing completed.
+12-03-2020 21:12:36.233 [Gauge] [DEBUG] Checking updates...
+12-03-2020 21:12:36.234 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 21:12:37.225 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 21:12:37.457 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 21:12:37.689 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+12-03-2020 21:12:42.535 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59806
+12-03-2020 21:12:42.728 [Gauge] [DEBUG] Successfully made the connection with runner with port: 59806
+12-03-2020 21:12:42.728 [Gauge] [DEBUG] Validation started.
+12-03-2020 21:12:42.928 [Gauge] [DEBUG] Validation completed.
+12-03-2020 21:12:42.930 [Gauge] [DEBUG] Run started
+12-03-2020 21:12:42.931 [Gauge] [DEBUG] Starting Html Report plugin
+12-03-2020 21:12:42.983 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59811
+12-03-2020 21:12:42.985 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 59811
+12-03-2020 21:12:42.985 [Gauge] [DEBUG] Initialising suite data store.
+12-03-2020 21:12:48.289 [java] [DEBUG] Scanning packages for steps
+12-03-2020 21:12:48.357 [java] [DEBUG] Scanning packages for hooks
+12-03-2020 21:14:02.280 [html-report] [DEBUG] Transformed SuiteResult to report structure
+12-03-2020 21:14:02.320 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+12-03-2020 21:14:02.320 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+12-03-2020 21:14:02.320 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+12-03-2020 21:14:02.839 [Gauge] [DEBUG] Runner with PID:20178 has exited
+12-03-2020 21:14:02.839 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+12-03-2020 21:14:02.839 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+12-03-2020 21:14:02.839 [Gauge] [INFO] 
+Total time taken: 1m19.335s
+13-03-2020 12:02:04.031 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 12:02:04.033 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 12:02:04.034 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 12:02:04.034 [Gauge] [DEBUG] Parsing started.
+13-03-2020 12:02:04.034 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 12:02:04.050 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 12:02:04.050 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 12:02:04.051 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 12:02:04.051 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 12:02:04.696 [Gauge] [DEBUG] Checking updates...
+13-03-2020 12:02:04.697 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 12:02:05.847 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 12:02:06.099 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 12:02:06.405 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 12:02:11.142 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 61425
+13-03-2020 12:02:11.331 [Gauge] [DEBUG] Successfully made the connection with runner with port: 61425
+13-03-2020 12:02:11.331 [Gauge] [DEBUG] Validation started.
+13-03-2020 12:02:11.513 [Gauge] [DEBUG] Validation completed.
+13-03-2020 12:02:11.513 [Gauge] [DEBUG] Run started
+13-03-2020 12:02:11.514 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 12:02:11.567 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 61430
+13-03-2020 12:02:11.570 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 61430
+13-03-2020 12:02:11.570 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 12:02:16.810 [java] [DEBUG] Scanning packages for steps
+13-03-2020 12:02:16.886 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 12:03:00.892 [html-report] [DEBUG] Transformed SuiteResult to report structure
+13-03-2020 12:03:00.922 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+13-03-2020 12:03:00.922 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+13-03-2020 12:03:00.922 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+13-03-2020 12:03:01.443 [Gauge] [DEBUG] Runner with PID:20404 has exited
+13-03-2020 12:03:01.443 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+13-03-2020 12:03:01.443 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+13-03-2020 12:03:01.443 [Gauge] [INFO] 
+Total time taken: 49.373s
+13-03-2020 12:08:14.793 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 12:08:14.795 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 12:08:14.797 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 12:08:14.797 [Gauge] [DEBUG] Parsing started.
+13-03-2020 12:08:14.797 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 12:08:14.804 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 12:08:14.804 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 12:08:14.805 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 12:08:14.805 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 12:08:15.387 [Gauge] [DEBUG] Checking updates...
+13-03-2020 12:08:15.389 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 12:08:16.411 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 12:08:16.658 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 12:08:16.900 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 12:08:21.814 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 61779
+13-03-2020 12:08:21.998 [Gauge] [DEBUG] Successfully made the connection with runner with port: 61779
+13-03-2020 12:08:21.998 [Gauge] [DEBUG] Validation started.
+13-03-2020 12:08:22.175 [Gauge] [DEBUG] Validation completed.
+13-03-2020 12:08:22.175 [Gauge] [DEBUG] Run started
+13-03-2020 12:08:22.176 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 12:08:22.215 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 61784
+13-03-2020 12:08:22.216 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 61784
+13-03-2020 12:08:22.216 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 12:08:27.286 [java] [DEBUG] Scanning packages for steps
+13-03-2020 12:08:27.359 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 12:09:10.816 [html-report] [DEBUG] Transformed SuiteResult to report structure
+13-03-2020 12:09:10.845 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+13-03-2020 12:09:10.845 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+13-03-2020 12:09:10.845 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+13-03-2020 12:09:11.355 [Gauge] [DEBUG] Runner with PID:20462 has exited
+13-03-2020 12:09:11.355 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+13-03-2020 12:09:11.355 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+13-03-2020 12:09:11.355 [Gauge] [INFO] 
+Total time taken: 48.636s
+13-03-2020 12:10:36.452 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 12:10:36.454 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 12:10:36.455 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 12:10:36.455 [Gauge] [DEBUG] Parsing started.
+13-03-2020 12:10:36.455 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 12:10:36.462 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 12:10:36.462 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 12:10:36.464 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 12:10:36.464 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 12:10:37.127 [Gauge] [DEBUG] Checking updates...
+13-03-2020 12:10:37.129 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 12:10:38.134 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 12:10:38.380 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 12:10:38.708 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 12:10:43.408 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 62012
+13-03-2020 12:10:43.583 [Gauge] [DEBUG] Successfully made the connection with runner with port: 62012
+13-03-2020 12:10:43.583 [Gauge] [DEBUG] Validation started.
+13-03-2020 12:10:43.750 [Gauge] [DEBUG] Validation completed.
+13-03-2020 12:10:43.750 [Gauge] [DEBUG] Run started
+13-03-2020 12:10:43.751 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 12:10:43.763 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 62017
+13-03-2020 12:10:43.764 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 62017
+13-03-2020 12:10:43.765 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 12:10:48.806 [java] [DEBUG] Scanning packages for steps
+13-03-2020 12:10:48.880 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 12:11:30.496 [html-report] [DEBUG] Transformed SuiteResult to report structure
+13-03-2020 12:11:30.524 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+13-03-2020 12:11:30.524 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+13-03-2020 12:11:30.524 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+13-03-2020 12:11:31.043 [Gauge] [DEBUG] Runner with PID:20516 has exited
+13-03-2020 12:11:31.043 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+13-03-2020 12:11:31.043 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+13-03-2020 12:11:31.043 [Gauge] [INFO] 
+Total time taken: 46.742s
+13-03-2020 12:13:59.031 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 12:13:59.032 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 12:13:59.033 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 12:13:59.033 [Gauge] [DEBUG] Parsing started.
+13-03-2020 12:13:59.033 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 12:13:59.039 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 12:13:59.039 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 12:13:59.040 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 12:13:59.040 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 12:13:59.697 [Gauge] [DEBUG] Checking updates...
+13-03-2020 12:13:59.698 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 12:14:00.635 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 12:14:00.885 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 12:14:01.128 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 12:14:06.035 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 62299
+13-03-2020 12:14:06.285 [Gauge] [DEBUG] Successfully made the connection with runner with port: 62299
+13-03-2020 12:14:06.285 [Gauge] [DEBUG] Validation started.
+13-03-2020 12:14:06.587 [Gauge] [DEBUG] Validation completed.
+13-03-2020 12:14:06.587 [Gauge] [DEBUG] Run started
+13-03-2020 12:14:06.588 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 12:14:06.640 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 62304
+13-03-2020 12:14:06.642 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 62304
+13-03-2020 12:14:06.642 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 12:14:11.825 [java] [DEBUG] Scanning packages for steps
+13-03-2020 12:14:11.896 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 12:14:54.482 [html-report] [DEBUG] Transformed SuiteResult to report structure
+13-03-2020 12:14:54.514 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+13-03-2020 12:14:54.514 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+13-03-2020 12:14:54.514 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+13-03-2020 12:14:55.033 [Gauge] [DEBUG] Runner with PID:20582 has exited
+13-03-2020 12:14:55.033 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+13-03-2020 12:14:55.033 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+13-03-2020 12:14:55.033 [Gauge] [INFO] 
+Total time taken: 47.886s
+13-03-2020 12:17:02.056 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 12:17:02.058 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 12:17:02.059 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 12:17:02.059 [Gauge] [DEBUG] Parsing started.
+13-03-2020 12:17:02.059 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 12:17:02.065 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 12:17:02.065 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 12:17:02.066 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 12:17:02.066 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 12:17:02.692 [Gauge] [DEBUG] Checking updates...
+13-03-2020 12:17:02.693 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 12:17:03.957 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 12:17:04.205 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 12:17:04.452 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 12:17:10.238 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 62586
+13-03-2020 12:17:10.389 [Gauge] [DEBUG] Successfully made the connection with runner with port: 62586
+13-03-2020 12:17:10.389 [Gauge] [DEBUG] Validation started.
+13-03-2020 12:17:10.547 [Gauge] [DEBUG] Validation completed.
+13-03-2020 12:17:10.547 [Gauge] [DEBUG] Run started
+13-03-2020 12:17:10.548 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 12:17:10.585 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 62591
+13-03-2020 12:17:10.587 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 62591
+13-03-2020 12:17:10.587 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 12:17:15.498 [java] [DEBUG] Scanning packages for steps
+13-03-2020 12:17:15.562 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 12:18:01.093 [html-report] [DEBUG] Transformed SuiteResult to report structure
+13-03-2020 12:18:01.142 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+13-03-2020 12:18:01.142 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+13-03-2020 12:18:01.143 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+13-03-2020 12:18:01.660 [Gauge] [DEBUG] Runner with PID:20636 has exited
+13-03-2020 12:18:01.660 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+13-03-2020 12:18:01.660 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+13-03-2020 12:18:01.660 [Gauge] [INFO] 
+Total time taken: 50.541s
+13-03-2020 14:03:27.111 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 14:03:27.113 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 14:03:27.113 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 14:03:27.114 [Gauge] [DEBUG] Parsing started.
+13-03-2020 14:03:27.114 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 14:03:27.120 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 14:03:27.120 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 14:03:27.122 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 14:03:27.122 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 14:03:27.845 [Gauge] [DEBUG] Checking updates...
+13-03-2020 14:03:27.846 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 14:03:28.899 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 14:03:29.145 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 14:03:29.387 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 14:03:34.419 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50245
+13-03-2020 14:03:34.655 [Gauge] [DEBUG] Successfully made the connection with runner with port: 50245
+13-03-2020 14:03:34.655 [Gauge] [DEBUG] Validation started.
+13-03-2020 14:03:34.876 [Gauge] [DEBUG] Validation completed.
+13-03-2020 14:03:34.877 [Gauge] [DEBUG] Run started
+13-03-2020 14:03:34.878 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 14:03:34.931 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50251
+13-03-2020 14:03:34.933 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 50251
+13-03-2020 14:03:34.933 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 14:03:40.011 [java] [DEBUG] Scanning packages for steps
+13-03-2020 14:03:40.076 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 14:04:48.202 [html-report] [DEBUG] Transformed SuiteResult to report structure
+13-03-2020 14:04:48.255 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+13-03-2020 14:04:48.255 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+13-03-2020 14:04:48.255 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+13-03-2020 14:04:48.776 [Gauge] [DEBUG] Runner with PID:20883 has exited
+13-03-2020 14:04:48.776 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 14:04:48.776 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 14:04:48.776 [Gauge] [INFO] 
+Total time taken: 1m13.32s
+13-03-2020 14:05:48.172 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 14:05:48.174 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 14:05:48.175 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 14:05:48.175 [Gauge] [DEBUG] Parsing started.
+13-03-2020 14:05:48.175 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 14:05:48.187 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 14:05:48.187 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 14:05:48.190 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 14:05:48.190 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 14:05:48.906 [Gauge] [DEBUG] Checking updates...
+13-03-2020 14:05:48.908 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 14:05:50.086 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 14:05:50.343 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 14:05:50.650 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 14:05:56.985 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50687
+13-03-2020 14:05:57.303 [Gauge] [DEBUG] Successfully made the connection with runner with port: 50687
+13-03-2020 14:05:57.303 [Gauge] [DEBUG] Validation started.
+13-03-2020 14:05:57.689 [Gauge] [DEBUG] Validation completed.
+13-03-2020 14:05:57.690 [Gauge] [DEBUG] Run started
+13-03-2020 14:05:57.691 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 14:05:57.759 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50692
+13-03-2020 14:05:57.764 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 50692
+13-03-2020 14:05:57.764 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 14:06:09.045 [java] [DEBUG] Scanning packages for steps
+13-03-2020 14:06:09.222 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 14:06:58.679 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 14:06:58.683 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 14:06:58.685 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 14:06:58.685 [Gauge] [DEBUG] Parsing started.
+13-03-2020 14:06:58.685 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 14:06:58.693 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 14:06:58.693 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 14:06:58.696 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 14:06:58.696 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 14:06:59.384 [Gauge] [DEBUG] Checking updates...
+13-03-2020 14:06:59.385 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 14:07:00.487 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 14:07:00.797 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 14:07:01.101 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 14:07:07.368 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50852
+13-03-2020 14:07:07.729 [Gauge] [DEBUG] Successfully made the connection with runner with port: 50852
+13-03-2020 14:07:07.729 [Gauge] [DEBUG] Validation started.
+13-03-2020 14:07:08.120 [Gauge] [DEBUG] Validation completed.
+13-03-2020 14:07:08.120 [Gauge] [DEBUG] Run started
+13-03-2020 14:07:08.121 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 14:07:08.141 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50858
+13-03-2020 14:07:08.142 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 50858
+13-03-2020 14:07:08.142 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 14:07:19.096 [java] [DEBUG] Scanning packages for steps
+13-03-2020 14:07:19.298 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 14:08:11.778 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 14:08:11.781 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 14:08:11.782 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 14:08:11.782 [Gauge] [DEBUG] Parsing started.
+13-03-2020 14:08:11.782 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 14:08:11.791 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 14:08:11.791 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 14:08:11.793 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 14:08:11.793 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 14:08:12.455 [Gauge] [DEBUG] Checking updates...
+13-03-2020 14:08:12.456 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 14:08:13.707 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 14:08:13.958 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 14:08:14.207 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 14:08:19.266 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51014
+13-03-2020 14:08:19.482 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51014
+13-03-2020 14:08:19.482 [Gauge] [DEBUG] Validation started.
+13-03-2020 14:08:19.698 [Gauge] [DEBUG] Validation completed.
+13-03-2020 14:08:19.698 [Gauge] [DEBUG] Run started
+13-03-2020 14:08:19.699 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 14:08:19.737 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51019
+13-03-2020 14:08:19.738 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51019
+13-03-2020 14:08:19.738 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 14:08:26.058 [java] [DEBUG] Scanning packages for steps
+13-03-2020 14:08:26.146 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 14:09:38.340 [html-report] [DEBUG] Transformed SuiteResult to report structure
+13-03-2020 14:09:38.389 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+13-03-2020 14:09:38.389 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+13-03-2020 14:09:38.389 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+13-03-2020 14:09:38.911 [Gauge] [DEBUG] Runner with PID:21087 has exited
+13-03-2020 14:09:38.911 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+13-03-2020 14:09:38.911 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+13-03-2020 14:09:38.911 [Gauge] [INFO] 
+Total time taken: 1m18.636s
+13-03-2020 16:04:56.155 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 16:04:56.158 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 16:04:56.159 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 16:04:56.160 [Gauge] [DEBUG] Parsing started.
+13-03-2020 16:04:56.160 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 16:04:56.171 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 16:04:56.171 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 16:04:56.173 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 16:04:56.174 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 16:04:57.106 [Gauge] [DEBUG] Checking updates...
+13-03-2020 16:04:57.109 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 16:04:58.087 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 16:04:58.395 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 16:04:58.700 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 16:05:05.843 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 54624
+13-03-2020 16:05:06.280 [Gauge] [DEBUG] Successfully made the connection with runner with port: 54624
+13-03-2020 16:05:06.281 [Gauge] [DEBUG] Validation started.
+13-03-2020 16:05:06.739 [Gauge] [DEBUG] Validation completed.
+13-03-2020 16:05:06.740 [Gauge] [DEBUG] Run started
+13-03-2020 16:05:06.742 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 16:05:06.826 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 54629
+13-03-2020 16:05:06.831 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 54629
+13-03-2020 16:05:06.832 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 16:05:17.471 [java] [DEBUG] Scanning packages for steps
+13-03-2020 16:05:17.672 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 16:08:25.511 [html-report] [DEBUG] Transformed SuiteResult to report structure
+13-03-2020 16:08:25.680 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+13-03-2020 16:08:25.681 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+13-03-2020 16:08:25.681 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+13-03-2020 16:08:26.423 [Gauge] [DEBUG] Runner with PID:21309 has exited
+13-03-2020 16:08:26.425 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 16:08:26.425 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 16:08:26.425 [Gauge] [INFO] 
+Total time taken: 3m18.759s
+13-03-2020 20:18:20.259 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 20:18:20.263 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 20:18:20.263 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 20:18:20.264 [Gauge] [DEBUG] Parsing started.
+13-03-2020 20:18:20.265 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 20:18:20.270 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 20:18:20.270 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 20:18:20.274 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 20:18:20.275 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 20:18:20.936 [Gauge] [DEBUG] Checking updates...
+13-03-2020 20:18:20.938 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 20:18:21.924 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 20:18:22.170 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 20:18:22.460 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 20:18:27.452 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56182
+13-03-2020 20:18:27.647 [Gauge] [DEBUG] Successfully made the connection with runner with port: 56182
+13-03-2020 20:18:27.648 [Gauge] [DEBUG] Validation started.
+13-03-2020 20:18:27.841 [Gauge] [DEBUG] Validation completed.
+13-03-2020 20:18:27.842 [Gauge] [DEBUG] Run started
+13-03-2020 20:18:27.843 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 20:18:27.877 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56187
+13-03-2020 20:18:27.878 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 56187
+13-03-2020 20:18:27.878 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 20:18:33.363 [java] [DEBUG] Scanning packages for steps
+13-03-2020 20:18:33.439 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 20:19:54.951 [html-report] [DEBUG] Transformed SuiteResult to report structure
+13-03-2020 20:19:55.015 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+13-03-2020 20:19:55.015 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+13-03-2020 20:19:55.015 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+13-03-2020 20:19:55.531 [Gauge] [DEBUG] Runner with PID:21583 has exited
+13-03-2020 20:19:55.531 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 20:19:55.531 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 20:19:55.531 [Gauge] [INFO] 
+Total time taken: 1m27.102s
+13-03-2020 20:45:32.870 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 20:45:32.871 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 20:45:32.872 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 20:45:32.872 [Gauge] [DEBUG] Parsing started.
+13-03-2020 20:45:32.873 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 20:45:32.879 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 20:45:32.879 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 20:45:32.881 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 20:45:32.882 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 20:45:33.546 [Gauge] [DEBUG] Checking updates...
+13-03-2020 20:45:33.548 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 20:45:34.479 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 20:45:34.713 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 20:45:35.009 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 20:45:40.236 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57060
+13-03-2020 20:45:40.428 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57060
+13-03-2020 20:45:40.428 [Gauge] [DEBUG] Validation started.
+13-03-2020 20:45:40.630 [Gauge] [DEBUG] Validation completed.
+13-03-2020 20:45:40.631 [Gauge] [DEBUG] Run started
+13-03-2020 20:45:40.631 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 20:45:40.664 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57065
+13-03-2020 20:45:40.666 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 57065
+13-03-2020 20:45:40.666 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 20:45:46.983 [java] [DEBUG] Scanning packages for steps
+13-03-2020 20:45:47.064 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 20:46:18.631 [html-report] [DEBUG] Transformed SuiteResult to report structure
+13-03-2020 20:46:18.705 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+13-03-2020 20:46:18.705 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+13-03-2020 20:46:18.705 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+13-03-2020 20:46:19.239 [Gauge] [DEBUG] Runner with PID:21661 has exited
+13-03-2020 20:46:19.239 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 20:46:19.239 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 20:46:19.239 [Gauge] [INFO] 
+Total time taken: 37.985s
+13-03-2020 20:47:54.668 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 20:47:54.670 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 20:47:54.670 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 20:47:54.671 [Gauge] [DEBUG] Parsing started.
+13-03-2020 20:47:54.671 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 20:47:54.677 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 20:47:54.678 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 20:47:54.679 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 20:47:54.679 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 20:47:55.348 [Gauge] [DEBUG] Checking updates...
+13-03-2020 20:47:55.349 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 20:47:56.236 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 20:47:56.475 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 20:47:56.716 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 20:48:01.637 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57265
+13-03-2020 20:48:01.817 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57265
+13-03-2020 20:48:01.817 [Gauge] [DEBUG] Validation started.
+13-03-2020 20:48:01.999 [Gauge] [DEBUG] Validation completed.
+13-03-2020 20:48:01.999 [Gauge] [DEBUG] Run started
+13-03-2020 20:48:02.000 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 20:48:02.011 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57270
+13-03-2020 20:48:02.011 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 57270
+13-03-2020 20:48:02.012 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 20:48:07.197 [java] [DEBUG] Scanning packages for steps
+13-03-2020 20:48:07.283 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 20:48:39.120 [html-report] [DEBUG] Transformed SuiteResult to report structure
+13-03-2020 20:48:39.172 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+13-03-2020 20:48:39.172 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+13-03-2020 20:48:39.172 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+13-03-2020 20:48:39.695 [Gauge] [DEBUG] Runner with PID:21722 has exited
+13-03-2020 20:48:39.695 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 20:48:39.696 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 20:48:39.696 [Gauge] [INFO] 
+Total time taken: 37.117s
+13-03-2020 20:49:21.971 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 20:49:21.972 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 20:49:21.973 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 20:49:21.974 [Gauge] [DEBUG] Parsing started.
+13-03-2020 20:49:21.974 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 20:49:21.980 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 20:49:21.980 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 20:49:21.982 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 20:49:21.982 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 20:49:22.600 [Gauge] [DEBUG] Checking updates...
+13-03-2020 20:49:22.602 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 20:49:23.465 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 20:49:23.696 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 20:49:23.924 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 20:49:29.149 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57448
+13-03-2020 20:49:29.327 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57448
+13-03-2020 20:49:29.327 [Gauge] [DEBUG] Validation started.
+13-03-2020 20:49:29.518 [Gauge] [DEBUG] Validation completed.
+13-03-2020 20:49:29.518 [Gauge] [DEBUG] Run started
+13-03-2020 20:49:29.519 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 20:49:29.530 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57453
+13-03-2020 20:49:29.531 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 57453
+13-03-2020 20:49:29.531 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 20:49:34.779 [java] [DEBUG] Scanning packages for steps
+13-03-2020 20:49:34.849 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 20:50:48.910 [html-report] [DEBUG] Transformed SuiteResult to report structure
+13-03-2020 20:50:48.958 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+13-03-2020 20:50:48.958 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+13-03-2020 20:50:48.958 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+13-03-2020 20:50:49.482 [Gauge] [DEBUG] Runner with PID:21792 has exited
+13-03-2020 20:50:49.483 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 20:50:49.483 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 20:50:49.483 [Gauge] [INFO] 
+Total time taken: 1m19.384s
+13-03-2020 21:05:15.760 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 21:05:15.762 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 21:05:15.763 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 21:05:15.763 [Gauge] [DEBUG] Parsing started.
+13-03-2020 21:05:15.763 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 21:05:15.770 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 21:05:15.770 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 21:05:15.773 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 21:05:15.773 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 21:05:16.811 [Gauge] [DEBUG] Checking updates...
+13-03-2020 21:05:16.816 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:05:17.701 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:05:17.934 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:05:18.236 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:05:23.198 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58484
+13-03-2020 21:05:23.394 [Gauge] [DEBUG] Successfully made the connection with runner with port: 58484
+13-03-2020 21:05:23.394 [Gauge] [DEBUG] Validation started.
+13-03-2020 21:05:23.577 [Gauge] [DEBUG] Validation completed.
+13-03-2020 21:05:23.577 [Gauge] [DEBUG] Run started
+13-03-2020 21:05:23.578 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 21:05:23.611 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 58489
+13-03-2020 21:05:23.614 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 58489
+13-03-2020 21:05:23.614 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 21:05:28.961 [java] [DEBUG] Scanning packages for steps
+13-03-2020 21:05:29.026 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 21:06:53.619 [html-report] [DEBUG] Transformed SuiteResult to report structure
+13-03-2020 21:06:53.676 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+13-03-2020 21:06:53.676 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+13-03-2020 21:06:53.676 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+13-03-2020 21:06:54.200 [Gauge] [DEBUG] Runner with PID:21927 has exited
+13-03-2020 21:06:54.201 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 21:06:54.201 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 21:06:54.201 [Gauge] [INFO] 
+Total time taken: 1m30.034s
+13-03-2020 21:14:16.119 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 21:14:16.121 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 21:14:16.125 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 21:14:16.126 [Gauge] [DEBUG] Parsing started.
+13-03-2020 21:14:16.126 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 21:14:16.131 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 21:14:16.131 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 21:14:16.133 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 21:14:16.133 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 21:14:17.079 [Gauge] [DEBUG] Checking updates...
+13-03-2020 21:14:17.082 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:14:18.003 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:14:18.235 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:14:18.513 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:14:23.052 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59032
+13-03-2020 21:14:23.206 [Gauge] [DEBUG] Successfully made the connection with runner with port: 59032
+13-03-2020 21:14:23.207 [Gauge] [DEBUG] Validation started.
+13-03-2020 21:14:23.388 [Gauge] [DEBUG] Validation completed.
+13-03-2020 21:14:23.388 [Gauge] [DEBUG] Run started
+13-03-2020 21:14:23.389 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 21:14:23.437 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59037
+13-03-2020 21:14:23.439 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 59037
+13-03-2020 21:14:23.439 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 21:14:28.363 [java] [DEBUG] Scanning packages for steps
+13-03-2020 21:14:28.433 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 21:16:02.217 [html-report] [DEBUG] Transformed SuiteResult to report structure
+13-03-2020 21:16:02.270 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+13-03-2020 21:16:02.270 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+13-03-2020 21:16:02.270 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+13-03-2020 21:16:02.793 [Gauge] [DEBUG] Runner with PID:21989 has exited
+13-03-2020 21:16:02.794 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 21:16:02.794 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 21:16:02.794 [Gauge] [INFO] 
+Total time taken: 1m38.822s
+13-03-2020 21:29:48.905 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 21:29:48.908 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 21:29:48.912 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 21:29:48.913 [Gauge] [DEBUG] Parsing started.
+13-03-2020 21:29:48.913 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 21:29:48.919 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 21:29:48.920 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 21:29:48.922 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 21:29:48.922 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 21:29:49.583 [Gauge] [DEBUG] Checking updates...
+13-03-2020 21:29:49.584 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:29:50.524 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:29:50.765 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:29:51.073 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:29:56.060 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 60067
+13-03-2020 21:29:56.292 [Gauge] [DEBUG] Successfully made the connection with runner with port: 60067
+13-03-2020 21:29:56.292 [Gauge] [DEBUG] Validation started.
+13-03-2020 21:29:56.490 [Gauge] [DEBUG] Validation completed.
+13-03-2020 21:29:56.490 [Gauge] [DEBUG] Run started
+13-03-2020 21:29:56.491 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 21:29:56.524 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 60072
+13-03-2020 21:29:56.526 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 60072
+13-03-2020 21:29:56.527 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 21:30:03.342 [java] [DEBUG] Scanning packages for steps
+13-03-2020 21:30:03.435 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 21:31:43.440 [html-report] [DEBUG] Transformed SuiteResult to report structure
+13-03-2020 21:31:43.574 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+13-03-2020 21:31:43.574 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+13-03-2020 21:31:43.574 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+13-03-2020 21:31:44.199 [Gauge] [DEBUG] Runner with PID:22102 has exited
+13-03-2020 21:31:44.199 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 21:31:44.199 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 21:31:44.199 [Gauge] [INFO] 
+Total time taken: 1m46.941s
+13-03-2020 21:33:19.129 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 21:33:19.135 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 21:33:19.139 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 21:33:19.141 [Gauge] [DEBUG] Parsing started.
+13-03-2020 21:33:19.141 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 21:33:19.166 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 21:33:19.167 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 21:33:19.171 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 21:33:19.172 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 21:33:20.478 [Gauge] [DEBUG] Checking updates...
+13-03-2020 21:33:20.482 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:33:21.399 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:33:21.702 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:33:22.023 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:33:30.065 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 60444
+13-03-2020 21:33:30.312 [Gauge] [DEBUG] Successfully made the connection with runner with port: 60444
+13-03-2020 21:33:30.312 [Gauge] [DEBUG] Validation started.
+13-03-2020 21:33:30.554 [Gauge] [DEBUG] Validation completed.
+13-03-2020 21:33:30.554 [Gauge] [DEBUG] Run started
+13-03-2020 21:33:30.555 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 21:33:30.603 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 60449
+13-03-2020 21:33:30.606 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 60449
+13-03-2020 21:33:30.606 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 21:33:42.542 [java] [DEBUG] Scanning packages for steps
+13-03-2020 21:33:42.744 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 21:36:29.587 [html-report] [DEBUG] Transformed SuiteResult to report structure
+13-03-2020 21:36:29.762 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+13-03-2020 21:36:29.762 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+13-03-2020 21:36:29.762 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+13-03-2020 21:36:30.384 [Gauge] [DEBUG] Runner with PID:22162 has exited
+13-03-2020 21:36:30.384 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 21:36:30.384 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 21:36:30.385 [Gauge] [INFO] 
+Total time taken: 2m59.016s
+13-03-2020 21:39:10.953 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 21:39:10.963 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 21:39:10.964 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 21:39:10.966 [Gauge] [DEBUG] Parsing started.
+13-03-2020 21:39:10.966 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 21:39:10.986 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 21:39:10.987 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 21:39:10.995 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 21:39:10.995 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 21:39:12.256 [Gauge] [DEBUG] Checking updates...
+13-03-2020 21:39:12.259 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:39:13.451 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:39:13.752 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:39:14.057 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:39:22.346 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 60897
+13-03-2020 21:39:22.808 [Gauge] [DEBUG] Successfully made the connection with runner with port: 60897
+13-03-2020 21:39:22.808 [Gauge] [DEBUG] Validation started.
+13-03-2020 21:39:23.367 [Gauge] [DEBUG] Validation completed.
+13-03-2020 21:39:23.367 [Gauge] [DEBUG] Run started
+13-03-2020 21:39:23.370 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 21:39:23.460 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 60902
+13-03-2020 21:39:23.464 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 60902
+13-03-2020 21:39:23.464 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 21:39:39.995 [java] [DEBUG] Scanning packages for steps
+13-03-2020 21:39:40.223 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 21:42:47.159 [html-report] [DEBUG] Transformed SuiteResult to report structure
+13-03-2020 21:42:47.354 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+13-03-2020 21:42:47.354 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+13-03-2020 21:42:47.354 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+13-03-2020 21:42:47.997 [Gauge] [DEBUG] Runner with PID:22235 has exited
+13-03-2020 21:42:47.998 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 21:42:47.999 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 21:42:47.999 [Gauge] [INFO] 
+Total time taken: 3m23.779s
+13-03-2020 21:48:31.278 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 21:48:31.282 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 21:48:31.285 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 21:48:31.286 [Gauge] [DEBUG] Parsing started.
+13-03-2020 21:48:31.286 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 21:48:31.301 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 21:48:31.302 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 21:48:31.308 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 21:48:31.308 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 21:48:32.869 [Gauge] [DEBUG] Checking updates...
+13-03-2020 21:48:32.874 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:48:33.977 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:48:34.286 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:48:34.589 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 21:48:45.043 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 61437
+13-03-2020 21:48:45.898 [Gauge] [DEBUG] Successfully made the connection with runner with port: 61437
+13-03-2020 21:48:45.898 [Gauge] [DEBUG] Validation started.
+13-03-2020 21:48:47.169 [Gauge] [DEBUG] Validation completed.
+13-03-2020 21:48:47.170 [Gauge] [DEBUG] Run started
+13-03-2020 21:48:47.171 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 21:48:47.238 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 61445
+13-03-2020 21:48:47.241 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 61445
+13-03-2020 21:48:47.241 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 21:49:21.456 [java] [DEBUG] Scanning packages for steps
+13-03-2020 21:49:21.920 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 21:57:45.953 [html-report] [DEBUG] Transformed SuiteResult to report structure
+13-03-2020 21:57:46.073 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+13-03-2020 21:57:46.073 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+13-03-2020 21:57:46.073 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+13-03-2020 21:57:46.712 [Gauge] [DEBUG] Runner with PID:22287 has exited
+13-03-2020 21:57:46.713 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 21:57:46.713 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 21:57:46.713 [Gauge] [INFO] 
+Total time taken: 7m13.123s
+13-03-2020 22:37:13.544 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 22:37:13.548 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 22:37:13.549 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 22:37:13.550 [Gauge] [DEBUG] Parsing started.
+13-03-2020 22:37:13.550 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 22:37:13.556 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 22:37:13.557 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 22:37:13.562 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 22:37:13.563 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 22:37:14.767 [Gauge] [DEBUG] Checking updates...
+13-03-2020 22:37:14.769 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 22:37:15.657 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 22:37:15.903 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 22:37:16.202 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 22:37:20.635 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 62853
+13-03-2020 22:37:20.836 [Gauge] [DEBUG] Successfully made the connection with runner with port: 62853
+13-03-2020 22:37:20.836 [Gauge] [DEBUG] Validation started.
+13-03-2020 22:37:21.039 [Gauge] [DEBUG] Validation completed.
+13-03-2020 22:37:21.040 [Gauge] [DEBUG] Run started
+13-03-2020 22:37:21.041 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 22:37:21.082 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 62858
+13-03-2020 22:37:21.084 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 62858
+13-03-2020 22:37:21.084 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 22:37:26.731 [java] [DEBUG] Scanning packages for steps
+13-03-2020 22:37:26.811 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 22:38:40.868 [html-report] [DEBUG] Transformed SuiteResult to report structure
+13-03-2020 22:38:40.919 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+13-03-2020 22:38:40.919 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+13-03-2020 22:38:40.919 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+13-03-2020 22:38:41.438 [Gauge] [DEBUG] Runner with PID:22481 has exited
+13-03-2020 22:38:41.438 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 22:38:41.438 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 22:38:41.438 [Gauge] [INFO] 
+Total time taken: 1m19.82s
+13-03-2020 22:39:39.789 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 22:39:39.790 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 22:39:39.791 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 22:39:39.792 [Gauge] [DEBUG] Parsing started.
+13-03-2020 22:39:39.792 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 22:39:39.798 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 22:39:39.798 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 22:39:39.799 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 22:39:39.799 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 22:39:40.984 [Gauge] [DEBUG] Checking updates...
+13-03-2020 22:39:40.992 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 22:39:41.830 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 22:39:42.123 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 22:39:42.427 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 22:39:47.987 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 63179
+13-03-2020 22:39:48.150 [Gauge] [DEBUG] Successfully made the connection with runner with port: 63179
+13-03-2020 22:39:48.150 [Gauge] [DEBUG] Validation started.
+13-03-2020 22:39:48.332 [Gauge] [DEBUG] Validation completed.
+13-03-2020 22:39:48.332 [Gauge] [DEBUG] Run started
+13-03-2020 22:39:48.333 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 22:39:48.346 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 63185
+13-03-2020 22:39:48.346 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 63185
+13-03-2020 22:39:48.346 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 22:39:54.857 [java] [DEBUG] Scanning packages for steps
+13-03-2020 22:39:54.929 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 22:41:11.679 [html-report] [DEBUG] Transformed SuiteResult to report structure
+13-03-2020 22:41:11.728 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+13-03-2020 22:41:11.729 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+13-03-2020 22:41:11.729 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+13-03-2020 22:41:12.337 [Gauge] [DEBUG] Runner with PID:22535 has exited
+13-03-2020 22:41:12.337 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 22:41:12.337 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 22:41:12.338 [Gauge] [INFO] 
+Total time taken: 1m23.342s
+13-03-2020 22:45:04.937 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+13-03-2020 22:45:04.943 [Gauge] [DEBUG] Plugin java is already installed.
+13-03-2020 22:45:04.944 [Gauge] [DEBUG] Plugin html-report is already installed.
+13-03-2020 22:45:04.944 [Gauge] [DEBUG] Parsing started.
+13-03-2020 22:45:04.944 [Gauge] [DEBUG] Started concepts parsing.
+13-03-2020 22:45:04.951 [Gauge] [DEBUG] 0 concepts parsing completed.
+13-03-2020 22:45:04.951 [Gauge] [DEBUG] Started specifications parsing.
+13-03-2020 22:45:04.953 [Gauge] [DEBUG] 1 specifications parsing completed.
+13-03-2020 22:45:04.953 [Gauge] [DEBUG] Parsing completed.
+13-03-2020 22:45:05.906 [Gauge] [DEBUG] Checking updates...
+13-03-2020 22:45:05.908 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 22:45:06.848 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 22:45:07.093 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 22:45:07.445 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+13-03-2020 22:45:12.053 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 63607
+13-03-2020 22:45:12.214 [Gauge] [DEBUG] Successfully made the connection with runner with port: 63607
+13-03-2020 22:45:12.214 [Gauge] [DEBUG] Validation started.
+13-03-2020 22:45:12.390 [Gauge] [DEBUG] Validation completed.
+13-03-2020 22:45:12.390 [Gauge] [DEBUG] Run started
+13-03-2020 22:45:12.391 [Gauge] [DEBUG] Starting Html Report plugin
+13-03-2020 22:45:12.400 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 63613
+13-03-2020 22:45:12.401 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 63613
+13-03-2020 22:45:12.401 [Gauge] [DEBUG] Initialising suite data store.
+13-03-2020 22:45:17.738 [java] [DEBUG] Scanning packages for steps
+13-03-2020 22:45:17.813 [java] [DEBUG] Scanning packages for hooks
+13-03-2020 22:47:12.719 [html-report] [DEBUG] Transformed SuiteResult to report structure
+13-03-2020 22:47:12.766 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+13-03-2020 22:47:12.766 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+13-03-2020 22:47:12.767 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+13-03-2020 22:47:13.292 [Gauge] [DEBUG] Runner with PID:22599 has exited
+13-03-2020 22:47:13.292 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 22:47:13.292 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+13-03-2020 22:47:13.292 [Gauge] [INFO] 
+Total time taken: 2m0.309s
+14-03-2020 14:38:39.391 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+14-03-2020 14:38:39.393 [Gauge] [DEBUG] Plugin java is already installed.
+14-03-2020 14:38:39.394 [Gauge] [DEBUG] Plugin html-report is already installed.
+14-03-2020 14:38:39.394 [Gauge] [DEBUG] Parsing started.
+14-03-2020 14:38:39.395 [Gauge] [DEBUG] Started concepts parsing.
+14-03-2020 14:38:39.402 [Gauge] [DEBUG] 0 concepts parsing completed.
+14-03-2020 14:38:39.402 [Gauge] [DEBUG] Started specifications parsing.
+14-03-2020 14:38:39.404 [Gauge] [DEBUG] 1 specifications parsing completed.
+14-03-2020 14:38:39.404 [Gauge] [DEBUG] Parsing completed.
+14-03-2020 14:38:40.101 [Gauge] [DEBUG] Checking updates...
+14-03-2020 14:38:40.102 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 14:38:41.132 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 14:38:41.377 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 14:38:41.626 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 14:38:46.535 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 52304
+14-03-2020 14:38:46.729 [Gauge] [DEBUG] Successfully made the connection with runner with port: 52304
+14-03-2020 14:38:46.729 [Gauge] [DEBUG] Validation started.
+14-03-2020 14:38:46.911 [Gauge] [DEBUG] Validation completed.
+14-03-2020 14:38:46.914 [Gauge] [DEBUG] Run started
+14-03-2020 14:38:46.915 [Gauge] [DEBUG] Starting Html Report plugin
+14-03-2020 14:38:46.962 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 52309
+14-03-2020 14:38:46.965 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 52309
+14-03-2020 14:38:46.965 [Gauge] [DEBUG] Initialising suite data store.
+14-03-2020 14:38:52.192 [java] [DEBUG] Scanning packages for steps
+14-03-2020 14:38:52.260 [java] [DEBUG] Scanning packages for hooks
+14-03-2020 14:40:05.252 [html-report] [DEBUG] Transformed SuiteResult to report structure
+14-03-2020 14:40:05.299 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+14-03-2020 14:40:05.299 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+14-03-2020 14:40:05.299 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+14-03-2020 14:40:05.819 [Gauge] [DEBUG] Runner with PID:22958 has exited
+14-03-2020 14:40:05.819 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+14-03-2020 14:40:05.819 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14-03-2020 14:40:05.819 [Gauge] [INFO] 
+Total time taken: 1m18.332s
+14-03-2020 14:42:20.571 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+14-03-2020 14:42:20.573 [Gauge] [DEBUG] Plugin java is already installed.
+14-03-2020 14:42:20.573 [Gauge] [DEBUG] Plugin html-report is already installed.
+14-03-2020 14:42:20.574 [Gauge] [DEBUG] Parsing started.
+14-03-2020 14:42:20.574 [Gauge] [DEBUG] Started concepts parsing.
+14-03-2020 14:42:20.582 [Gauge] [DEBUG] 0 concepts parsing completed.
+14-03-2020 14:42:20.582 [Gauge] [DEBUG] Started specifications parsing.
+14-03-2020 14:42:20.584 [Gauge] [DEBUG] 1 specifications parsing completed.
+14-03-2020 14:42:20.584 [Gauge] [DEBUG] Parsing completed.
+14-03-2020 14:42:21.957 [Gauge] [DEBUG] Checking updates...
+14-03-2020 14:42:21.960 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 14:42:22.889 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 14:42:23.194 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 14:42:23.424 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 14:42:28.862 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 52684
+14-03-2020 14:42:29.020 [Gauge] [DEBUG] Successfully made the connection with runner with port: 52684
+14-03-2020 14:42:29.020 [Gauge] [DEBUG] Validation started.
+14-03-2020 14:42:29.204 [Gauge] [DEBUG] Validation completed.
+14-03-2020 14:42:29.205 [Gauge] [DEBUG] Run started
+14-03-2020 14:42:29.205 [Gauge] [DEBUG] Starting Html Report plugin
+14-03-2020 14:42:29.238 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 52689
+14-03-2020 14:42:29.240 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 52689
+14-03-2020 14:42:29.240 [Gauge] [DEBUG] Initialising suite data store.
+14-03-2020 14:42:34.340 [java] [DEBUG] Scanning packages for steps
+14-03-2020 14:42:34.417 [java] [DEBUG] Scanning packages for hooks
+14-03-2020 14:44:35.641 [html-report] [DEBUG] Transformed SuiteResult to report structure
+14-03-2020 14:44:35.699 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+14-03-2020 14:44:35.699 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+14-03-2020 14:44:35.699 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+14-03-2020 14:44:36.221 [Gauge] [DEBUG] Runner with PID:23014 has exited
+14-03-2020 14:44:36.222 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+14-03-2020 14:44:36.222 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14-03-2020 14:44:36.222 [Gauge] [INFO] 
+Total time taken: 2m6.415s
+14-03-2020 14:55:03.592 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+14-03-2020 14:55:03.594 [Gauge] [DEBUG] Plugin java is already installed.
+14-03-2020 14:55:03.595 [Gauge] [DEBUG] Plugin html-report is already installed.
+14-03-2020 14:55:03.595 [Gauge] [DEBUG] Parsing started.
+14-03-2020 14:55:03.595 [Gauge] [DEBUG] Started concepts parsing.
+14-03-2020 14:55:03.602 [Gauge] [DEBUG] 0 concepts parsing completed.
+14-03-2020 14:55:03.602 [Gauge] [DEBUG] Started specifications parsing.
+14-03-2020 14:55:03.604 [Gauge] [DEBUG] 1 specifications parsing completed.
+14-03-2020 14:55:03.604 [Gauge] [DEBUG] Parsing completed.
+14-03-2020 14:55:04.736 [Gauge] [DEBUG] Checking updates...
+14-03-2020 14:55:04.738 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 14:55:06.056 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 14:55:06.315 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 14:55:06.592 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 14:55:11.717 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 53562
+14-03-2020 14:55:11.934 [Gauge] [DEBUG] Successfully made the connection with runner with port: 53562
+14-03-2020 14:55:11.934 [Gauge] [DEBUG] Validation started.
+14-03-2020 14:55:12.137 [Gauge] [DEBUG] Validation completed.
+14-03-2020 14:55:12.138 [Gauge] [DEBUG] Run started
+14-03-2020 14:55:12.138 [Gauge] [DEBUG] Starting Html Report plugin
+14-03-2020 14:55:12.173 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 53567
+14-03-2020 14:55:12.174 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 53567
+14-03-2020 14:55:12.175 [Gauge] [DEBUG] Initialising suite data store.
+14-03-2020 14:55:17.401 [java] [DEBUG] Scanning packages for steps
+14-03-2020 14:55:17.487 [java] [DEBUG] Scanning packages for hooks
+14-03-2020 15:00:40.940 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+14-03-2020 15:00:40.942 [Gauge] [DEBUG] Plugin java is already installed.
+14-03-2020 15:00:40.947 [Gauge] [DEBUG] Plugin html-report is already installed.
+14-03-2020 15:00:40.948 [Gauge] [DEBUG] Parsing started.
+14-03-2020 15:00:40.948 [Gauge] [DEBUG] Started concepts parsing.
+14-03-2020 15:00:40.955 [Gauge] [DEBUG] 0 concepts parsing completed.
+14-03-2020 15:00:40.955 [Gauge] [DEBUG] Started specifications parsing.
+14-03-2020 15:00:40.957 [Gauge] [DEBUG] 1 specifications parsing completed.
+14-03-2020 15:00:40.957 [Gauge] [DEBUG] Parsing completed.
+14-03-2020 15:00:41.963 [Gauge] [DEBUG] Checking updates...
+14-03-2020 15:00:41.963 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:00:42.843 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:00:43.099 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:00:43.341 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:00:47.748 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 54079
+14-03-2020 15:00:47.933 [Gauge] [DEBUG] Successfully made the connection with runner with port: 54079
+14-03-2020 15:00:47.933 [Gauge] [DEBUG] Validation started.
+14-03-2020 15:00:48.120 [Gauge] [DEBUG] Validation completed.
+14-03-2020 15:00:48.121 [Gauge] [DEBUG] Run started
+14-03-2020 15:00:48.121 [Gauge] [DEBUG] Starting Html Report plugin
+14-03-2020 15:00:48.132 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 54084
+14-03-2020 15:00:48.133 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 54084
+14-03-2020 15:00:48.133 [Gauge] [DEBUG] Initialising suite data store.
+14-03-2020 15:00:53.071 [java] [DEBUG] Scanning packages for steps
+14-03-2020 15:00:53.143 [java] [DEBUG] Scanning packages for hooks
+14-03-2020 15:02:44.180 [html-report] [DEBUG] Transformed SuiteResult to report structure
+14-03-2020 15:02:44.258 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+14-03-2020 15:02:44.258 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+14-03-2020 15:02:44.258 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+14-03-2020 15:02:44.791 [Gauge] [DEBUG] Runner with PID:23177 has exited
+14-03-2020 15:02:44.791 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+14-03-2020 15:02:44.791 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14-03-2020 15:02:44.791 [Gauge] [INFO] 
+Total time taken: 1m56.039s
+14-03-2020 15:03:00.120 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+14-03-2020 15:03:00.125 [Gauge] [DEBUG] Plugin java is already installed.
+14-03-2020 15:03:00.126 [Gauge] [DEBUG] Plugin html-report is already installed.
+14-03-2020 15:03:00.126 [Gauge] [DEBUG] Parsing started.
+14-03-2020 15:03:00.126 [Gauge] [DEBUG] Started concepts parsing.
+14-03-2020 15:03:00.134 [Gauge] [DEBUG] 0 concepts parsing completed.
+14-03-2020 15:03:00.135 [Gauge] [DEBUG] Started specifications parsing.
+14-03-2020 15:03:00.137 [Gauge] [DEBUG] 1 specifications parsing completed.
+14-03-2020 15:03:00.137 [Gauge] [DEBUG] Parsing completed.
+14-03-2020 15:03:00.837 [Gauge] [DEBUG] Checking updates...
+14-03-2020 15:03:00.838 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:03:01.986 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:03:02.226 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:03:02.461 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:03:07.517 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 54454
+14-03-2020 15:03:07.742 [Gauge] [DEBUG] Successfully made the connection with runner with port: 54454
+14-03-2020 15:03:07.742 [Gauge] [DEBUG] Validation started.
+14-03-2020 15:03:07.992 [Gauge] [DEBUG] Validation completed.
+14-03-2020 15:03:07.992 [Gauge] [DEBUG] Run started
+14-03-2020 15:03:07.993 [Gauge] [DEBUG] Starting Html Report plugin
+14-03-2020 15:03:08.005 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 54459
+14-03-2020 15:03:08.006 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 54459
+14-03-2020 15:03:08.006 [Gauge] [DEBUG] Initialising suite data store.
+14-03-2020 15:03:14.366 [java] [DEBUG] Scanning packages for steps
+14-03-2020 15:03:14.465 [java] [DEBUG] Scanning packages for hooks
+14-03-2020 15:05:51.613 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+14-03-2020 15:05:51.615 [Gauge] [DEBUG] Plugin java is already installed.
+14-03-2020 15:05:51.616 [Gauge] [DEBUG] Plugin html-report is already installed.
+14-03-2020 15:05:51.616 [Gauge] [DEBUG] Parsing started.
+14-03-2020 15:05:51.616 [Gauge] [DEBUG] Started concepts parsing.
+14-03-2020 15:05:51.625 [Gauge] [DEBUG] 0 concepts parsing completed.
+14-03-2020 15:05:51.625 [Gauge] [DEBUG] Started specifications parsing.
+14-03-2020 15:05:51.631 [Gauge] [DEBUG] 1 specifications parsing completed.
+14-03-2020 15:05:51.631 [Gauge] [DEBUG] Parsing completed.
+14-03-2020 15:05:52.309 [Gauge] [DEBUG] Checking updates...
+14-03-2020 15:05:52.310 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:05:53.259 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:05:53.491 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:05:53.724 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:05:59.024 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 54891
+14-03-2020 15:05:59.258 [Gauge] [DEBUG] Successfully made the connection with runner with port: 54891
+14-03-2020 15:05:59.258 [Gauge] [DEBUG] Validation started.
+14-03-2020 15:05:59.501 [Gauge] [DEBUG] Validation completed.
+14-03-2020 15:05:59.502 [Gauge] [DEBUG] Run started
+14-03-2020 15:05:59.502 [Gauge] [DEBUG] Starting Html Report plugin
+14-03-2020 15:05:59.515 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 54896
+14-03-2020 15:05:59.516 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 54896
+14-03-2020 15:05:59.516 [Gauge] [DEBUG] Initialising suite data store.
+14-03-2020 15:06:06.386 [java] [DEBUG] Scanning packages for steps
+14-03-2020 15:06:06.505 [java] [DEBUG] Scanning packages for hooks
+14-03-2020 15:09:34.753 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+14-03-2020 15:09:34.755 [Gauge] [DEBUG] Plugin java is already installed.
+14-03-2020 15:09:34.756 [Gauge] [DEBUG] Plugin html-report is already installed.
+14-03-2020 15:09:34.757 [Gauge] [DEBUG] Parsing started.
+14-03-2020 15:09:34.757 [Gauge] [DEBUG] Started concepts parsing.
+14-03-2020 15:09:34.763 [Gauge] [DEBUG] 0 concepts parsing completed.
+14-03-2020 15:09:34.763 [Gauge] [DEBUG] Started specifications parsing.
+14-03-2020 15:09:34.765 [Gauge] [DEBUG] 1 specifications parsing completed.
+14-03-2020 15:09:34.766 [Gauge] [DEBUG] Parsing completed.
+14-03-2020 15:09:35.772 [Gauge] [DEBUG] Checking updates...
+14-03-2020 15:09:35.774 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:09:36.904 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:09:37.143 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:09:37.411 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:09:45.247 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 55278
+14-03-2020 15:09:45.454 [Gauge] [DEBUG] Successfully made the connection with runner with port: 55278
+14-03-2020 15:09:45.454 [Gauge] [DEBUG] Validation started.
+14-03-2020 15:09:45.685 [Gauge] [DEBUG] Validation completed.
+14-03-2020 15:09:45.686 [Gauge] [DEBUG] Run started
+14-03-2020 15:09:45.686 [Gauge] [DEBUG] Starting Html Report plugin
+14-03-2020 15:09:45.698 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 55283
+14-03-2020 15:09:45.699 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 55283
+14-03-2020 15:09:45.699 [Gauge] [DEBUG] Initialising suite data store.
+14-03-2020 15:09:55.342 [java] [DEBUG] Scanning packages for steps
+14-03-2020 15:09:55.448 [java] [DEBUG] Scanning packages for hooks
+14-03-2020 15:11:51.621 [html-report] [DEBUG] Transformed SuiteResult to report structure
+14-03-2020 15:11:51.728 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+14-03-2020 15:11:51.728 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+14-03-2020 15:11:51.728 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+14-03-2020 15:11:52.372 [Gauge] [DEBUG] Runner with PID:23332 has exited
+14-03-2020 15:11:52.372 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+14-03-2020 15:11:52.372 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14-03-2020 15:11:52.372 [Gauge] [INFO] 
+Total time taken: 2m5.929s
+14-03-2020 15:26:34.360 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+14-03-2020 15:26:34.362 [Gauge] [DEBUG] Plugin java is already installed.
+14-03-2020 15:26:34.363 [Gauge] [DEBUG] Plugin html-report is already installed.
+14-03-2020 15:26:34.364 [Gauge] [DEBUG] Parsing started.
+14-03-2020 15:26:34.364 [Gauge] [DEBUG] Started concepts parsing.
+14-03-2020 15:26:34.373 [Gauge] [DEBUG] 0 concepts parsing completed.
+14-03-2020 15:26:34.373 [Gauge] [DEBUG] Started specifications parsing.
+14-03-2020 15:26:34.375 [Gauge] [DEBUG] 1 specifications parsing completed.
+14-03-2020 15:26:34.375 [Gauge] [DEBUG] Parsing completed.
+14-03-2020 15:26:35.270 [Gauge] [DEBUG] Checking updates...
+14-03-2020 15:26:35.272 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:26:36.388 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:26:36.629 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:26:37.002 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:26:42.186 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56349
+14-03-2020 15:26:42.459 [Gauge] [DEBUG] Successfully made the connection with runner with port: 56349
+14-03-2020 15:26:42.459 [Gauge] [DEBUG] Validation started.
+14-03-2020 15:26:42.736 [Gauge] [DEBUG] Validation completed.
+14-03-2020 15:26:42.737 [Gauge] [DEBUG] Run started
+14-03-2020 15:26:42.738 [Gauge] [DEBUG] Starting Html Report plugin
+14-03-2020 15:26:42.772 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56354
+14-03-2020 15:26:42.774 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 56354
+14-03-2020 15:26:42.774 [Gauge] [DEBUG] Initialising suite data store.
+14-03-2020 15:26:48.672 [java] [DEBUG] Scanning packages for steps
+14-03-2020 15:26:48.744 [java] [DEBUG] Scanning packages for hooks
+14-03-2020 15:28:08.920 [html-report] [DEBUG] Transformed SuiteResult to report structure
+14-03-2020 15:28:09.001 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+14-03-2020 15:28:09.001 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+14-03-2020 15:28:09.001 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+14-03-2020 15:28:09.535 [Gauge] [DEBUG] Runner with PID:23454 has exited
+14-03-2020 15:28:09.535 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+14-03-2020 15:28:09.535 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14-03-2020 15:28:09.535 [Gauge] [INFO] 
+Total time taken: 1m26.176s
+14-03-2020 15:33:21.668 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+14-03-2020 15:33:21.670 [Gauge] [DEBUG] Plugin java is already installed.
+14-03-2020 15:33:21.671 [Gauge] [DEBUG] Plugin html-report is already installed.
+14-03-2020 15:33:21.671 [Gauge] [DEBUG] Parsing started.
+14-03-2020 15:33:21.671 [Gauge] [DEBUG] Started concepts parsing.
+14-03-2020 15:33:21.678 [Gauge] [DEBUG] 0 concepts parsing completed.
+14-03-2020 15:33:21.678 [Gauge] [DEBUG] Started specifications parsing.
+14-03-2020 15:33:21.680 [Gauge] [DEBUG] 1 specifications parsing completed.
+14-03-2020 15:33:21.680 [Gauge] [DEBUG] Parsing completed.
+14-03-2020 15:33:22.715 [Gauge] [DEBUG] Checking updates...
+14-03-2020 15:33:22.717 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:33:23.628 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:33:23.869 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:33:24.161 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:33:28.881 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56905
+14-03-2020 15:33:29.063 [Gauge] [DEBUG] Successfully made the connection with runner with port: 56905
+14-03-2020 15:33:29.063 [Gauge] [DEBUG] Validation started.
+14-03-2020 15:33:29.252 [Gauge] [DEBUG] Validation completed.
+14-03-2020 15:33:29.252 [Gauge] [DEBUG] Run started
+14-03-2020 15:33:29.253 [Gauge] [DEBUG] Starting Html Report plugin
+14-03-2020 15:33:29.288 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56910
+14-03-2020 15:33:29.290 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 56910
+14-03-2020 15:33:29.290 [Gauge] [DEBUG] Initialising suite data store.
+14-03-2020 15:33:34.277 [java] [DEBUG] Scanning packages for steps
+14-03-2020 15:33:34.350 [java] [DEBUG] Scanning packages for hooks
+14-03-2020 15:34:36.798 [html-report] [DEBUG] Transformed SuiteResult to report structure
+14-03-2020 15:34:36.859 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+14-03-2020 15:34:36.859 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+14-03-2020 15:34:36.859 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+14-03-2020 15:34:37.387 [Gauge] [DEBUG] Runner with PID:23588 has exited
+14-03-2020 15:34:37.387 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+14-03-2020 15:34:37.387 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14-03-2020 15:34:37.387 [Gauge] [INFO] 
+Total time taken: 1m7.53s
+14-03-2020 15:36:35.232 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+14-03-2020 15:36:35.238 [Gauge] [DEBUG] Plugin java is already installed.
+14-03-2020 15:36:35.239 [Gauge] [DEBUG] Plugin html-report is already installed.
+14-03-2020 15:36:35.245 [Gauge] [DEBUG] Parsing started.
+14-03-2020 15:36:35.245 [Gauge] [DEBUG] Started concepts parsing.
+14-03-2020 15:36:35.253 [Gauge] [DEBUG] 0 concepts parsing completed.
+14-03-2020 15:36:35.253 [Gauge] [DEBUG] Started specifications parsing.
+14-03-2020 15:36:35.261 [Gauge] [DEBUG] 1 specifications parsing completed.
+14-03-2020 15:36:35.261 [Gauge] [DEBUG] Parsing completed.
+14-03-2020 15:36:35.967 [Gauge] [DEBUG] Checking updates...
+14-03-2020 15:36:35.968 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:36:36.981 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:36:37.223 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:36:37.466 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 15:36:42.721 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57256
+14-03-2020 15:36:42.883 [Gauge] [DEBUG] Successfully made the connection with runner with port: 57256
+14-03-2020 15:36:42.883 [Gauge] [DEBUG] Validation started.
+14-03-2020 15:36:43.051 [Gauge] [DEBUG] Validation completed.
+14-03-2020 15:36:43.052 [Gauge] [DEBUG] Run started
+14-03-2020 15:36:43.052 [Gauge] [DEBUG] Starting Html Report plugin
+14-03-2020 15:36:43.094 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 57261
+14-03-2020 15:36:43.096 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 57261
+14-03-2020 15:36:43.096 [Gauge] [DEBUG] Initialising suite data store.
+14-03-2020 15:36:48.183 [java] [DEBUG] Scanning packages for steps
+14-03-2020 15:36:48.251 [java] [DEBUG] Scanning packages for hooks
+14-03-2020 15:38:08.780 [html-report] [DEBUG] Transformed SuiteResult to report structure
+14-03-2020 15:38:08.837 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+14-03-2020 15:38:08.837 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+14-03-2020 15:38:08.837 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+14-03-2020 15:38:09.360 [Gauge] [DEBUG] Runner with PID:23653 has exited
+14-03-2020 15:38:09.360 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+14-03-2020 15:38:09.360 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14-03-2020 15:38:09.360 [Gauge] [INFO] 
+Total time taken: 1m25.722s
+14-03-2020 16:09:54.599 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+14-03-2020 16:09:54.601 [Gauge] [DEBUG] Plugin java is already installed.
+14-03-2020 16:09:54.602 [Gauge] [DEBUG] Plugin html-report is already installed.
+14-03-2020 16:09:54.603 [Gauge] [DEBUG] Parsing started.
+14-03-2020 16:09:54.603 [Gauge] [DEBUG] Started concepts parsing.
+14-03-2020 16:09:54.610 [Gauge] [DEBUG] 0 concepts parsing completed.
+14-03-2020 16:09:54.611 [Gauge] [DEBUG] Started specifications parsing.
+14-03-2020 16:09:54.613 [Gauge] [DEBUG] 1 specifications parsing completed.
+14-03-2020 16:09:54.613 [Gauge] [DEBUG] Parsing completed.
+14-03-2020 16:09:55.630 [Gauge] [DEBUG] Checking updates...
+14-03-2020 16:09:55.632 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 16:09:56.582 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 16:09:56.832 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 16:09:57.071 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 16:10:01.760 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59694
+14-03-2020 16:10:01.953 [Gauge] [DEBUG] Successfully made the connection with runner with port: 59694
+14-03-2020 16:10:01.953 [Gauge] [DEBUG] Validation started.
+14-03-2020 16:10:02.173 [Gauge] [DEBUG] Validation completed.
+14-03-2020 16:10:02.173 [Gauge] [DEBUG] Run started
+14-03-2020 16:10:02.174 [Gauge] [DEBUG] Starting Html Report plugin
+14-03-2020 16:10:02.207 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 59699
+14-03-2020 16:10:02.208 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 59699
+14-03-2020 16:10:02.209 [Gauge] [DEBUG] Initialising suite data store.
+14-03-2020 16:10:07.415 [java] [DEBUG] Scanning packages for steps
+14-03-2020 16:10:07.500 [java] [DEBUG] Scanning packages for hooks
+14-03-2020 16:11:35.309 [html-report] [DEBUG] Transformed SuiteResult to report structure
+14-03-2020 16:11:35.438 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+14-03-2020 16:11:35.438 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+14-03-2020 16:11:35.438 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+14-03-2020 16:11:35.964 [Gauge] [DEBUG] Runner with PID:23945 has exited
+14-03-2020 16:11:35.964 [Gauge] [INFO] Specifications:	1 executed	1 passed	0 failed	0 skipped
+14-03-2020 16:11:35.964 [Gauge] [INFO] Scenarios:	1 executed	1 passed	0 failed	0 skipped
+14-03-2020 16:11:35.964 [Gauge] [INFO] 
+Total time taken: 1m33.126s
+14-03-2020 18:29:26.783 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+14-03-2020 18:29:26.785 [Gauge] [DEBUG] Plugin java is already installed.
+14-03-2020 18:29:26.786 [Gauge] [DEBUG] Plugin html-report is already installed.
+14-03-2020 18:29:26.786 [Gauge] [DEBUG] Parsing started.
+14-03-2020 18:29:26.787 [Gauge] [DEBUG] Started concepts parsing.
+14-03-2020 18:29:26.794 [Gauge] [DEBUG] 0 concepts parsing completed.
+14-03-2020 18:29:26.794 [Gauge] [DEBUG] Started specifications parsing.
+14-03-2020 18:29:26.797 [Gauge] [DEBUG] 1 specifications parsing completed.
+14-03-2020 18:29:26.797 [Gauge] [DEBUG] Parsing completed.
+14-03-2020 18:29:27.803 [Gauge] [DEBUG] Checking updates...
+14-03-2020 18:29:27.804 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 18:29:28.883 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 18:29:29.128 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 18:29:29.436 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 18:29:33.977 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50276
+14-03-2020 18:29:34.176 [Gauge] [DEBUG] Successfully made the connection with runner with port: 50276
+14-03-2020 18:29:34.177 [Gauge] [DEBUG] Validation started.
+14-03-2020 18:29:34.379 [Gauge] [DEBUG] Validation completed.
+14-03-2020 18:29:34.380 [Gauge] [DEBUG] Run started
+14-03-2020 18:29:34.380 [Gauge] [DEBUG] Starting Html Report plugin
+14-03-2020 18:29:34.435 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50281
+14-03-2020 18:29:34.438 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 50281
+14-03-2020 18:29:34.438 [Gauge] [DEBUG] Initialising suite data store.
+14-03-2020 18:29:39.970 [java] [DEBUG] Scanning packages for steps
+14-03-2020 18:29:40.041 [java] [DEBUG] Scanning packages for hooks
+14-03-2020 18:34:47.105 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+14-03-2020 18:34:47.106 [Gauge] [DEBUG] Plugin java is already installed.
+14-03-2020 18:34:47.107 [Gauge] [DEBUG] Plugin html-report is already installed.
+14-03-2020 18:34:47.108 [Gauge] [DEBUG] Parsing started.
+14-03-2020 18:34:47.108 [Gauge] [DEBUG] Started concepts parsing.
+14-03-2020 18:34:47.116 [Gauge] [DEBUG] 0 concepts parsing completed.
+14-03-2020 18:34:47.117 [Gauge] [DEBUG] Started specifications parsing.
+14-03-2020 18:34:47.119 [Gauge] [DEBUG] 1 specifications parsing completed.
+14-03-2020 18:34:47.119 [Gauge] [DEBUG] Parsing completed.
+14-03-2020 18:34:48.426 [Gauge] [DEBUG] Checking updates...
+14-03-2020 18:34:48.427 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 18:34:49.350 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 18:34:49.600 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 18:34:49.842 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 18:34:54.624 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50933
+14-03-2020 18:34:54.826 [Gauge] [DEBUG] Successfully made the connection with runner with port: 50933
+14-03-2020 18:34:54.826 [Gauge] [DEBUG] Validation started.
+14-03-2020 18:34:55.009 [Gauge] [DEBUG] Validation completed.
+14-03-2020 18:34:55.009 [Gauge] [DEBUG] Run started
+14-03-2020 18:34:55.011 [Gauge] [DEBUG] Starting Html Report plugin
+14-03-2020 18:34:55.049 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 50938
+14-03-2020 18:34:55.050 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 50938
+14-03-2020 18:34:55.050 [Gauge] [DEBUG] Initialising suite data store.
+14-03-2020 18:35:00.244 [java] [DEBUG] Scanning packages for steps
+14-03-2020 18:35:00.317 [java] [DEBUG] Scanning packages for hooks
+14-03-2020 18:44:50.846 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+14-03-2020 18:44:50.850 [Gauge] [DEBUG] Plugin java is already installed.
+14-03-2020 18:44:50.852 [Gauge] [DEBUG] Plugin html-report is already installed.
+14-03-2020 18:44:50.853 [Gauge] [DEBUG] Parsing started.
+14-03-2020 18:44:50.853 [Gauge] [DEBUG] Started concepts parsing.
+14-03-2020 18:44:50.863 [Gauge] [DEBUG] 0 concepts parsing completed.
+14-03-2020 18:44:50.863 [Gauge] [DEBUG] Started specifications parsing.
+14-03-2020 18:44:50.867 [Gauge] [DEBUG] 1 specifications parsing completed.
+14-03-2020 18:44:50.867 [Gauge] [DEBUG] Parsing completed.
+14-03-2020 18:44:51.961 [Gauge] [DEBUG] Checking updates...
+14-03-2020 18:44:51.963 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 18:44:52.990 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 18:44:53.221 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 18:44:53.497 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 18:44:58.028 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51615
+14-03-2020 18:44:58.219 [Gauge] [DEBUG] Successfully made the connection with runner with port: 51615
+14-03-2020 18:44:58.219 [Gauge] [DEBUG] Validation started.
+14-03-2020 18:44:58.419 [Gauge] [DEBUG] Validation completed.
+14-03-2020 18:44:58.420 [Gauge] [DEBUG] Run started
+14-03-2020 18:44:58.420 [Gauge] [DEBUG] Starting Html Report plugin
+14-03-2020 18:44:58.467 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 51620
+14-03-2020 18:44:58.469 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 51620
+14-03-2020 18:44:58.469 [Gauge] [DEBUG] Initialising suite data store.
+14-03-2020 18:45:04.024 [java] [DEBUG] Scanning packages for steps
+14-03-2020 18:45:04.087 [java] [DEBUG] Scanning packages for hooks
+14-03-2020 18:46:40.396 [html-report] [DEBUG] Transformed SuiteResult to report structure
+14-03-2020 18:46:40.462 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+14-03-2020 18:46:40.462 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+14-03-2020 18:46:40.463 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+14-03-2020 18:46:40.977 [Gauge] [DEBUG] Runner with PID:24603 has exited
+14-03-2020 18:46:40.977 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+14-03-2020 18:46:40.977 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14-03-2020 18:46:40.977 [Gauge] [INFO] 
+Total time taken: 1m41.97s
+14-03-2020 18:47:19.809 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+14-03-2020 18:47:19.811 [Gauge] [DEBUG] Plugin java is already installed.
+14-03-2020 18:47:19.811 [Gauge] [DEBUG] Plugin html-report is already installed.
+14-03-2020 18:47:19.812 [Gauge] [DEBUG] Parsing started.
+14-03-2020 18:47:19.812 [Gauge] [DEBUG] Started concepts parsing.
+14-03-2020 18:47:19.817 [Gauge] [DEBUG] 0 concepts parsing completed.
+14-03-2020 18:47:19.817 [Gauge] [DEBUG] Started specifications parsing.
+14-03-2020 18:47:19.820 [Gauge] [DEBUG] 1 specifications parsing completed.
+14-03-2020 18:47:19.820 [Gauge] [DEBUG] Parsing completed.
+14-03-2020 18:47:20.955 [Gauge] [DEBUG] Checking updates...
+14-03-2020 18:47:20.956 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 18:47:21.819 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 18:47:22.064 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 18:47:22.302 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 18:47:26.987 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 52023
+14-03-2020 18:47:27.194 [Gauge] [DEBUG] Successfully made the connection with runner with port: 52023
+14-03-2020 18:47:27.194 [Gauge] [DEBUG] Validation started.
+14-03-2020 18:47:27.429 [Gauge] [DEBUG] Validation completed.
+14-03-2020 18:47:27.429 [Gauge] [DEBUG] Run started
+14-03-2020 18:47:27.430 [Gauge] [DEBUG] Starting Html Report plugin
+14-03-2020 18:47:27.449 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 52029
+14-03-2020 18:47:27.450 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 52029
+14-03-2020 18:47:27.450 [Gauge] [DEBUG] Initialising suite data store.
+14-03-2020 18:47:34.390 [java] [DEBUG] Scanning packages for steps
+14-03-2020 18:47:34.480 [java] [DEBUG] Scanning packages for hooks
+14-03-2020 18:50:24.750 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+14-03-2020 18:50:24.752 [Gauge] [DEBUG] Plugin java is already installed.
+14-03-2020 18:50:24.753 [Gauge] [DEBUG] Plugin html-report is already installed.
+14-03-2020 18:50:24.754 [Gauge] [DEBUG] Parsing started.
+14-03-2020 18:50:24.754 [Gauge] [DEBUG] Started concepts parsing.
+14-03-2020 18:50:24.759 [Gauge] [DEBUG] 0 concepts parsing completed.
+14-03-2020 18:50:24.760 [Gauge] [DEBUG] Started specifications parsing.
+14-03-2020 18:50:24.762 [Gauge] [DEBUG] 1 specifications parsing completed.
+14-03-2020 18:50:24.762 [Gauge] [DEBUG] Parsing completed.
+14-03-2020 18:50:25.499 [Gauge] [DEBUG] Checking updates...
+14-03-2020 18:50:25.501 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 18:50:26.411 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 18:50:26.654 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 18:50:26.899 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 18:50:32.630 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 52440
+14-03-2020 18:50:32.880 [Gauge] [DEBUG] Successfully made the connection with runner with port: 52440
+14-03-2020 18:50:32.880 [Gauge] [DEBUG] Validation started.
+14-03-2020 18:50:33.126 [Gauge] [DEBUG] Validation completed.
+14-03-2020 18:50:33.126 [Gauge] [DEBUG] Run started
+14-03-2020 18:50:33.127 [Gauge] [DEBUG] Starting Html Report plugin
+14-03-2020 18:50:33.164 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 52446
+14-03-2020 18:50:33.166 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 52446
+14-03-2020 18:50:33.166 [Gauge] [DEBUG] Initialising suite data store.
+14-03-2020 18:50:39.609 [java] [DEBUG] Scanning packages for steps
+14-03-2020 18:50:39.703 [java] [DEBUG] Scanning packages for hooks
+14-03-2020 18:52:24.214 [html-report] [DEBUG] Transformed SuiteResult to report structure
+14-03-2020 18:52:24.282 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+14-03-2020 18:52:24.282 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+14-03-2020 18:52:24.282 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+14-03-2020 18:52:24.797 [Gauge] [DEBUG] Runner with PID:24717 has exited
+14-03-2020 18:52:24.797 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+14-03-2020 18:52:24.798 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14-03-2020 18:52:24.798 [Gauge] [INFO] 
+Total time taken: 1m51.08s
+14-03-2020 19:32:15.018 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+14-03-2020 19:32:15.020 [Gauge] [DEBUG] Plugin java is already installed.
+14-03-2020 19:32:15.021 [Gauge] [DEBUG] Plugin html-report is already installed.
+14-03-2020 19:32:15.021 [Gauge] [DEBUG] Parsing started.
+14-03-2020 19:32:15.021 [Gauge] [DEBUG] Started concepts parsing.
+14-03-2020 19:32:15.029 [Gauge] [DEBUG] 0 concepts parsing completed.
+14-03-2020 19:32:15.029 [Gauge] [DEBUG] Started specifications parsing.
+14-03-2020 19:32:15.031 [Gauge] [DEBUG] 1 specifications parsing completed.
+14-03-2020 19:32:15.032 [Gauge] [DEBUG] Parsing completed.
+14-03-2020 19:32:15.673 [Gauge] [DEBUG] Checking updates...
+14-03-2020 19:32:15.675 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 19:32:16.753 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 19:32:17.005 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 19:32:17.250 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 19:32:22.882 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 54315
+14-03-2020 19:32:23.063 [Gauge] [DEBUG] Successfully made the connection with runner with port: 54315
+14-03-2020 19:32:23.064 [Gauge] [DEBUG] Validation started.
+14-03-2020 19:32:23.253 [Gauge] [DEBUG] Validation completed.
+14-03-2020 19:32:23.253 [Gauge] [DEBUG] Run started
+14-03-2020 19:32:23.254 [Gauge] [DEBUG] Starting Html Report plugin
+14-03-2020 19:32:23.288 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 54320
+14-03-2020 19:32:23.289 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 54320
+14-03-2020 19:32:23.289 [Gauge] [DEBUG] Initialising suite data store.
+14-03-2020 19:32:28.287 [java] [DEBUG] Scanning packages for steps
+14-03-2020 19:32:28.361 [java] [DEBUG] Scanning packages for hooks
+14-03-2020 19:37:58.067 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+14-03-2020 19:37:58.070 [Gauge] [DEBUG] Plugin java is already installed.
+14-03-2020 19:37:58.070 [Gauge] [DEBUG] Plugin html-report is already installed.
+14-03-2020 19:37:58.071 [Gauge] [DEBUG] Parsing started.
+14-03-2020 19:37:58.071 [Gauge] [DEBUG] Started concepts parsing.
+14-03-2020 19:37:58.080 [Gauge] [DEBUG] 0 concepts parsing completed.
+14-03-2020 19:37:58.081 [Gauge] [DEBUG] Started specifications parsing.
+14-03-2020 19:37:58.084 [Gauge] [DEBUG] 1 specifications parsing completed.
+14-03-2020 19:37:58.084 [Gauge] [DEBUG] Parsing completed.
+14-03-2020 19:37:59.082 [Gauge] [DEBUG] Checking updates...
+14-03-2020 19:37:59.084 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 19:37:59.931 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 19:38:00.166 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 19:38:00.403 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 19:38:05.358 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 54942
+14-03-2020 19:38:05.554 [Gauge] [DEBUG] Successfully made the connection with runner with port: 54942
+14-03-2020 19:38:05.554 [Gauge] [DEBUG] Validation started.
+14-03-2020 19:38:05.786 [Gauge] [DEBUG] Validation completed.
+14-03-2020 19:38:05.787 [Gauge] [DEBUG] Run started
+14-03-2020 19:38:05.787 [Gauge] [DEBUG] Starting Html Report plugin
+14-03-2020 19:38:05.823 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 54947
+14-03-2020 19:38:05.824 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 54947
+14-03-2020 19:38:05.824 [Gauge] [DEBUG] Initialising suite data store.
+14-03-2020 19:38:11.101 [java] [DEBUG] Scanning packages for steps
+14-03-2020 19:38:11.182 [java] [DEBUG] Scanning packages for hooks
+14-03-2020 19:39:51.746 [html-report] [DEBUG] Transformed SuiteResult to report structure
+14-03-2020 19:39:51.815 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+14-03-2020 19:39:51.816 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+14-03-2020 19:39:51.816 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+14-03-2020 19:39:52.333 [Gauge] [DEBUG] Runner with PID:24906 has exited
+14-03-2020 19:39:52.333 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+14-03-2020 19:39:52.333 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14-03-2020 19:39:52.333 [Gauge] [INFO] 
+Total time taken: 1m45.952s
+14-03-2020 20:00:10.941 [Gauge] [DEBUG] Created gauge_screenshots_dir at /Users/testinium/Desktop/ThyMobileTest/.gauge/screenshots
+14-03-2020 20:00:10.943 [Gauge] [DEBUG] Plugin java is already installed.
+14-03-2020 20:00:10.944 [Gauge] [DEBUG] Plugin html-report is already installed.
+14-03-2020 20:00:10.944 [Gauge] [DEBUG] Parsing started.
+14-03-2020 20:00:10.945 [Gauge] [DEBUG] Started concepts parsing.
+14-03-2020 20:00:10.951 [Gauge] [DEBUG] 0 concepts parsing completed.
+14-03-2020 20:00:10.952 [Gauge] [DEBUG] Started specifications parsing.
+14-03-2020 20:00:10.956 [Gauge] [DEBUG] 1 specifications parsing completed.
+14-03-2020 20:00:10.956 [Gauge] [DEBUG] Parsing completed.
+14-03-2020 20:00:11.634 [Gauge] [DEBUG] Checking updates...
+14-03-2020 20:00:11.636 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/html-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 20:00:12.845 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/java?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 20:00:13.083 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/screenshot?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 20:00:13.320 [Gauge] [DEBUG] Downloading https://downloads.gauge.org/plugin/xml-report?l=java&p=html-report,java,screenshot,xml-report&o=darwin&a=amd64
+14-03-2020 20:00:18.789 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56809
+14-03-2020 20:00:19.038 [Gauge] [DEBUG] Successfully made the connection with runner with port: 56809
+14-03-2020 20:00:19.038 [Gauge] [DEBUG] Validation started.
+14-03-2020 20:00:19.308 [Gauge] [DEBUG] Validation completed.
+14-03-2020 20:00:19.308 [Gauge] [DEBUG] Run started
+14-03-2020 20:00:19.309 [Gauge] [DEBUG] Starting Html Report plugin
+14-03-2020 20:00:19.359 [Gauge] [DEBUG] Attempting to connect to grpc server at port: 56814
+14-03-2020 20:00:19.362 [Gauge] [DEBUG] Successfully made the connection with plugin with port: 56814
+14-03-2020 20:00:19.362 [Gauge] [DEBUG] Initialising suite data store.
+14-03-2020 20:00:25.455 [java] [DEBUG] Scanning packages for steps
+14-03-2020 20:00:25.541 [java] [DEBUG] Scanning packages for hooks
+14-03-2020 20:02:09.002 [html-report] [DEBUG] Transformed SuiteResult to report structure
+14-03-2020 20:02:09.068 [html-report] [INFO] Successfully generated html-report to => /Users/testinium/Desktop/ThyMobileTest/reports/html-report/index.html
+14-03-2020 20:02:09.068 [html-report] [DEBUG] Done generating HTML report using theme from /Users/testinium/.gauge/plugins/html-report/4.0.9/themes/default
+14-03-2020 20:02:09.068 [Gauge] [DEBUG] Sending kill message to Html Report plugin.
+14-03-2020 20:02:09.694 [Gauge] [DEBUG] Runner with PID:25033 has exited
+14-03-2020 20:02:09.695 [Gauge] [INFO] Specifications:	1 executed	0 passed	1 failed	0 skipped
+14-03-2020 20:02:09.695 [Gauge] [INFO] Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14-03-2020 20:02:09.695 [Gauge] [INFO] 
+Total time taken: 1m49.687s
